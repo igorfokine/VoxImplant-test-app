@@ -1,0 +1,40 @@
+<div id="username" hidden="true">testuser1</div>
+<div id="password" hidden="true">testuser1</div>
+<div id="interlocutor" hidden="true">testuser2</div>
+
+
+<p>testuser1</p>
+video call with
+<p>testuser2</p>
+
+<button type="button" id="call-btn">Call</button>
+
+<br>
+<br>
+
+<div id="call-div" hidden="true">
+  <div id="call-interlocutor">testuser2</div>
+  <div id="call-status"></div>
+
+  <div id="call-picture">
+    User's avatar is here
+  </div>
+
+  <h3>Incoming video</h3>
+  <div id="video-container"></div>
+  <div class="timer">00:00:00</div>
+
+  <button type="button" id="micro-switch-btn">Turn micro on</button>
+  <button type="button" id="call-switch-btn">Accept</button>
+  <button type="button" id="video-switch-btn">Turn video on</button>
+
+  <button type="button" id="call-close-btn">Close</button>
+</div>
+
+<script src="https://unpkg.com/voximplant-websdk"></script>
+<script src="index.js"></script>
+<script src="js/login.js"></script>
+<script src="js/endpoints.js"></script>
+<script src="js/manage-call.js"></script>
+<script src="js/manage-mediastreams.js"></script>
+<script src="js/actions.js"></script>

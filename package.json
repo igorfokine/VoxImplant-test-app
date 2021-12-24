@@ -1,0 +1,9 @@
+{
+  "name": "VoxImplantTestProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "voximplant-websdk": "^4.5.0-2227"
+  }
+}
