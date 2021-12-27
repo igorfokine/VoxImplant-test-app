@@ -8,10 +8,11 @@ const interlocutor = document.getElementById('interlocutor').textContent;
 const login = () => {
   try {
     sdk.init({
+      showDebugInfo: true,
       micRequired: true, // force microphone/camera access request
       videoSupport: true, // enable video support
       progressTone: true, // play progress tone
-      localVideoContainerId: "localVideo",
+      localVideoContainerId: "video-container",
       remoteVideoContainerId: "remoteVideo"
     });
   } catch (e) {
