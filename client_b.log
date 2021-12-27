@@ -1,20 +1,20 @@
-voximplant.min.js:1 VIWSLR 2 Mon Dec 27 2021 11:12:55 GMT+0300 (Moscow Standard Time) INFO Client: SDK version: 4.4.2-2039
-voximplant.min.js:1 VIWSLR 3 0 INFO Client: init({"showDebugInfo":true,"micRequired":true,"videoSupport":true,"progressTone":true,"localVideoContainerId":"video-container","remoteVideoContainerId":"remoteVideo","queueType":1})
-voximplant.min.js:1 VIWSLR 4 0 INFO [event]: SDKReady, listeners: 1
-voximplant.min.js:1 VIWSLR 5 0 INFO Client: connect(undefined)
-login.js:24 Connected to VoxImplant
-voximplant.min.js:1 VIWSLR 6 0 INFO CameraManager: Got input devices: [{"deviceId":"default","kind":"audioinput","label":"Default","groupId":"2a20d6b62a12c84ee5cc87b9253e3c52ea8e732e204bbd6e96f4758fe6cec07a"},{"deviceId":"ddadf1eb0b5fb358df19c7a03903303ed669a797e58f9995e8d9392dcbf07487","kind":"audioinput","label":"Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo","groupId":"67f96137ba2e78a22001a65557225b03c1f9f9b7f984e35acfc5abaaab131fca"},{"deviceId":"ee869cbab993358a8b6081dd7f145f040a335b008d6dc26fe5204344adadcc8e","kind":"videoinput","label":"HD Camera (05c8:03e6)","groupId":"ae20a705b550e11aa2ecb9584989a2165009b2bfe9c94270ed4070dc65c41a1a"},{"deviceId":"default","kind":"audiooutput","label":"Default","groupId":"default"},{"deviceId":"dec593ec7f11626161e7895ea3278704b060eea79de277fb79e36ed51833c6ff","kind":"audiooutput","label":"Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo","groupId":"67f96137ba2e78a22001a65557225b03c1f9f9b7f984e35acfc5abaaab131fca"}]
-voximplant.min.js:1 VIWSLR 7 0 INFO AudioDeviceManager: Got input devices: [{"deviceId":"default","kind":"audioinput","label":"Default","groupId":"2a20d6b62a12c84ee5cc87b9253e3c52ea8e732e204bbd6e96f4758fe6cec07a"},{"deviceId":"ddadf1eb0b5fb358df19c7a03903303ed669a797e58f9995e8d9392dcbf07487","kind":"audioinput","label":"Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo","groupId":"67f96137ba2e78a22001a65557225b03c1f9f9b7f984e35acfc5abaaab131fca"},{"deviceId":"ee869cbab993358a8b6081dd7f145f040a335b008d6dc26fe5204344adadcc8e","kind":"videoinput","label":"HD Camera (05c8:03e6)","groupId":"ae20a705b550e11aa2ecb9584989a2165009b2bfe9c94270ed4070dc65c41a1a"},{"deviceId":"default","kind":"audiooutput","label":"Default","groupId":"default"},{"deviceId":"dec593ec7f11626161e7895ea3278704b060eea79de277fb79e36ed51833c6ff","kind":"audiooutput","label":"Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo","groupId":"67f96137ba2e78a22001a65557225b03c1f9f9b7f984e35acfc5abaaab131fca"}]
-voximplant.min.js:1 VIWSLR 8 0 INFO AudioDeviceManager: Got output devices: [{"deviceId":"default","kind":"audioinput","label":"Default","groupId":"2a20d6b62a12c84ee5cc87b9253e3c52ea8e732e204bbd6e96f4758fe6cec07a"},{"deviceId":"ddadf1eb0b5fb358df19c7a03903303ed669a797e58f9995e8d9392dcbf07487","kind":"audioinput","label":"Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo","groupId":"67f96137ba2e78a22001a65557225b03c1f9f9b7f984e35acfc5abaaab131fca"},{"deviceId":"ee869cbab993358a8b6081dd7f145f040a335b008d6dc26fe5204344adadcc8e","kind":"videoinput","label":"HD Camera (05c8:03e6)","groupId":"ae20a705b550e11aa2ecb9584989a2165009b2bfe9c94270ed4070dc65c41a1a"},{"deviceId":"default","kind":"audiooutput","label":"Default","groupId":"default"},{"deviceId":"dec593ec7f11626161e7895ea3278704b060eea79de277fb79e36ed51833c6ff","kind":"audiooutput","label":"Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo","groupId":"67f96137ba2e78a22001a65557225b03c1f9f9b7f984e35acfc5abaaab131fca"}]
-voximplant.min.js:1 VIWSLR 9 0 INFO Client: Trying web-gw-ru-17-245.voximplant.com
-voximplant.min.js:1 VIWSLR 10 0 INFO PCFactory: rpcHandlerCreatePC(), received SDP: 
+​ VIWSLR 2 Mon Dec 27 2021 11:39:07 GMT+0300 (Moscow Standard Time) INFO Client: SDK version: 4.4.2-2039
+​ VIWSLR 3 0 INFO Client: init({"showDebugInfo":true,"micRequired":true,"videoSupport":true,"progressTone":true,"localVideoContainerId":"video-container","remoteVideoContainerId":"remoteVideo","queueType":1})
+​ VIWSLR 4 0 INFO [event]: SDKReady, listeners: 1
+​ VIWSLR 5 0 INFO Client: connect(undefined)
+​ Connected to VoxImplant
+​ VIWSLR 6 0 INFO CameraManager: Got input devices: [{"deviceId":"default","kind":"audioinput","label":"Default","groupId":"4c3cc16b378ffc2b3f808fd3dac894a8c141069916dd2ac79de51de4f20b3c8e"},{"deviceId":"ddadf1eb0b5fb358df19c7a03903303ed669a797e58f9995e8d9392dcbf07487","kind":"audioinput","label":"Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo","groupId":"4d2f2e1cb3f6719f490c94252d96e17b3a71f2ebc72bbcf04a8dd7228dedb0a8"},{"deviceId":"ee869cbab993358a8b6081dd7f145f040a335b008d6dc26fe5204344adadcc8e","kind":"videoinput","label":"HD Camera (05c8:03e6)","groupId":"158e2894aeb369b6f79553480620574d67aa574f93cd757db5f812045f970b4e"},{"deviceId":"default","kind":"audiooutput","label":"Default","groupId":"default"},{"deviceId":"dec593ec7f11626161e7895ea3278704b060eea79de277fb79e36ed51833c6ff","kind":"audiooutput","label":"Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo","groupId":"4d2f2e1cb3f6719f490c94252d96e17b3a71f2ebc72bbcf04a8dd7228dedb0a8"}]
+​ VIWSLR 7 0 INFO AudioDeviceManager: Got input devices: [{"deviceId":"default","kind":"audioinput","label":"Default","groupId":"4c3cc16b378ffc2b3f808fd3dac894a8c141069916dd2ac79de51de4f20b3c8e"},{"deviceId":"ddadf1eb0b5fb358df19c7a03903303ed669a797e58f9995e8d9392dcbf07487","kind":"audioinput","label":"Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo","groupId":"4d2f2e1cb3f6719f490c94252d96e17b3a71f2ebc72bbcf04a8dd7228dedb0a8"},{"deviceId":"ee869cbab993358a8b6081dd7f145f040a335b008d6dc26fe5204344adadcc8e","kind":"videoinput","label":"HD Camera (05c8:03e6)","groupId":"158e2894aeb369b6f79553480620574d67aa574f93cd757db5f812045f970b4e"},{"deviceId":"default","kind":"audiooutput","label":"Default","groupId":"default"},{"deviceId":"dec593ec7f11626161e7895ea3278704b060eea79de277fb79e36ed51833c6ff","kind":"audiooutput","label":"Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo","groupId":"4d2f2e1cb3f6719f490c94252d96e17b3a71f2ebc72bbcf04a8dd7228dedb0a8"}]
+​ VIWSLR 8 0 INFO AudioDeviceManager: Got output devices: [{"deviceId":"default","kind":"audioinput","label":"Default","groupId":"4c3cc16b378ffc2b3f808fd3dac894a8c141069916dd2ac79de51de4f20b3c8e"},{"deviceId":"ddadf1eb0b5fb358df19c7a03903303ed669a797e58f9995e8d9392dcbf07487","kind":"audioinput","label":"Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo","groupId":"4d2f2e1cb3f6719f490c94252d96e17b3a71f2ebc72bbcf04a8dd7228dedb0a8"},{"deviceId":"ee869cbab993358a8b6081dd7f145f040a335b008d6dc26fe5204344adadcc8e","kind":"videoinput","label":"HD Camera (05c8:03e6)","groupId":"158e2894aeb369b6f79553480620574d67aa574f93cd757db5f812045f970b4e"},{"deviceId":"default","kind":"audiooutput","label":"Default","groupId":"default"},{"deviceId":"dec593ec7f11626161e7895ea3278704b060eea79de277fb79e36ed51833c6ff","kind":"audiooutput","label":"Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo","groupId":"4d2f2e1cb3f6719f490c94252d96e17b3a71f2ebc72bbcf04a8dd7228dedb0a8"}]
+​ VIWSLR 9 0 INFO Client: Trying web-gw-ru-30-228.voximplant.com
+​ VIWSLR 10 0 INFO PCFactory: rpcHandlerCreatePC(), received SDP: 
 v=0
 o=Mozilla-SIPUA 10806 2 IN IP4 0.0.0.0
 s=SIP Call
 t=0 0
 a=fingerprint:sha-256 F5:09:AD:E2:26:8E:9B:E0:C5:D9:1E:9C:88:AE:44:47:A6:1F:8A:B2:94:6E:22:8F:48:EC:D7:51:0E:BB:67:06
-m=audio 23260 RTP/SAVPF 114 111 0 8 101
-c=IN IP4 185.164.148.245
+m=audio 26830 RTP/SAVPF 114 111 0 8 101
+c=IN IP4 185.164.148.228
 a=mid:0
 a=rtpmap:114 opus/48000/2
 a=rtpmap:111 speex/16000
@@ -26,28 +26,28 @@ a=fmtp:114 minptime=10; useinbandfec=1; stereo=0; usedtx=1
 a=fmtp:101 0-15
 a=rtcp-mux
 a=sendrecv
-a=ice-ufrag:AEBD6631
-a=ice-pwd:76AAB4E6EE132B4EC40620BCF795
-a=candidate:1 1 UDP 100 185.164.148.245 23260 typ host generation 0
+a=ice-ufrag:0D37AE23
+a=ice-pwd:2BA736E014F54614BA063C3496B3
+a=candidate:1 1 UDP 100 185.164.148.228 26830 typ host generation 0
 a=end-of-candidates
 a=setup:actpass
-a=ssrc:1698571340 cname:321060B0A5EC77F6cname
-a=ssrc:1698571340 mslabel:321060B0A5EC77F6
-a=ssrc:1698571340 label:321060B0A5EC77F600
+a=ssrc:1358174054 cname:F27157DBA949657Ccname
+a=ssrc:1358174054 mslabel:F27157DBA949657C
+a=ssrc:1358174054 label:F27157DBA949657C00
 
-voximplant.min.js:1 VIWSLR 11 0 INFO Core: Create WebRTC on the {"_ua":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36","parsedResult":{"browser":{"name":"Chrome","version":"96.0.4664.45"},"os":{"name":"Linux"},"platform":{"type":"desktop"},"engine":{"name":"Blink"}}}
-voximplant.min.js:1 VIWSLR 12 0 INFO TransreceiverPC __default: PC created
-voximplant.min.js:1 VIWSLR 13 0 INFO StreamManager: [constraints]: {"video":false,"audio":{}}
-voximplant.min.js:1 VIWSLR 14 0 INFO StreamManager: Media access granted
-voximplant.min.js:1 VIWSLR 15 0 INFO [event]: MicAccessResult, listeners: 0
-voximplant.min.js:1 VIWSLR 16 0 INFO TransreceiverPC __default: _processRemoteOffer(), set remote SDP: 
+​ VIWSLR 11 0 INFO Core: Create WebRTC on the {"_ua":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36","parsedResult":{"browser":{"name":"Chrome","version":"96.0.4664.45"},"os":{"name":"Linux"},"platform":{"type":"desktop"},"engine":{"name":"Blink"}}}
+​ VIWSLR 12 0 INFO TransreceiverPC __default: PC created
+​ VIWSLR 13 0 INFO StreamManager: [constraints]: {"video":false,"audio":{}}
+​ VIWSLR 14 0 INFO StreamManager: Media access granted
+​ VIWSLR 15 0 INFO [event]: MicAccessResult, listeners: 0
+​ VIWSLR 16 0 INFO TransreceiverPC __default: _processRemoteOffer(), set remote SDP: 
 v=0
 o=Mozilla-SIPUA 10806 2 IN IP4 0.0.0.0
 s=SIP Call
 t=0 0
 a=fingerprint:sha-256 F5:09:AD:E2:26:8E:9B:E0:C5:D9:1E:9C:88:AE:44:47:A6:1F:8A:B2:94:6E:22:8F:48:EC:D7:51:0E:BB:67:06
-m=audio 23260 RTP/SAVPF 114 111 0 8 101
-c=IN IP4 185.164.148.245
+m=audio 26830 RTP/SAVPF 114 111 0 8 101
+c=IN IP4 185.164.148.228
 a=mid:0
 a=rtpmap:114 opus/48000/2
 a=rtpmap:111 speex/16000
@@ -59,100 +59,100 @@ a=fmtp:114 minptime=10; useinbandfec=1; stereo=0; usedtx=1
 a=fmtp:101 0-15
 a=rtcp-mux
 a=recvonly
-a=ice-ufrag:AEBD6631
-a=ice-pwd:76AAB4E6EE132B4EC40620BCF795
-a=candidate:1 1 UDP 100 185.164.148.245 23260 typ host generation 0
+a=ice-ufrag:0D37AE23
+a=ice-pwd:2BA736E014F54614BA063C3496B3
+a=candidate:1 1 UDP 100 185.164.148.228 26830 typ host generation 0
 a=end-of-candidates
 a=setup:actpass
-a=ssrc:1698571340 cname:321060B0A5EC77F6cname
-a=ssrc:1698571340 mslabel:321060B0A5EC77F6
-a=ssrc:1698571340 label:321060B0A5EC77F600
+a=ssrc:1358174054 cname:F27157DBA949657Ccname
+a=ssrc:1358174054 mslabel:F27157DBA949657C
+a=ssrc:1358174054 label:F27157DBA949657C00
 
-voximplant.min.js:1 VIWSLR 17 0 INFO TransreceiverPC __default: Signal state changed to have-remote-offer for PC: __default
-voximplant.min.js:1 VIWSLR 18 0 INFO TransreceiverPC __default: _processRemoteOffer(), created local SDP: 
+​ VIWSLR 17 0 INFO TransreceiverPC __default: Signal state changed to have-remote-offer for PC: __default
+​ VIWSLR 18 0 INFO TransreceiverPC __default: _processRemoteOffer(), created local SDP: 
 v=0
-o=- 9092559640562683403 2 IN IP4 127.0.0.1
+o=- 2177515004436616941 2 IN IP4 127.0.0.1
 s=-
 t=0 0
-a=msid-semantic: WMS ADNcjen66KbTd5eDkl5Go3iuST5Vw75e0XIC
+a=msid-semantic: WMS 6bdGULwVd54ocfxkUMEs5fC8YwcpUbSG3791
 m=audio 9 RTP/SAVPF 114 0 8 101
 c=IN IP4 0.0.0.0
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:uy25
-a=ice-pwd:2EvRjaT/oAF0OK7sFoFZIa+D
+a=ice-ufrag:CWL1
+a=ice-pwd:/ZKDunYEFagy9bji27OAN/b4
 a=ice-options:trickle
-a=fingerprint:sha-256 B2:94:80:A3:01:7D:96:DA:89:E3:89:4B:E7:55:DE:62:EF:AB:E4:1D:1A:64:B3:58:CB:57:27:1F:83:17:00:D6
+a=fingerprint:sha-256 6F:DD:2A:F4:5B:A1:94:D0:F9:BB:C6:DF:0E:21:DB:B7:C4:7D:8E:62:C8:DE:3D:51:8C:06:A7:DE:5D:D6:0F:6B
 a=setup:active
 a=mid:0
 a=sendonly
-a=msid:ADNcjen66KbTd5eDkl5Go3iuST5Vw75e0XIC c5acfdd5-ee1c-4f5f-bc2d-3b1c0a591bf7
+a=msid:6bdGULwVd54ocfxkUMEs5fC8YwcpUbSG3791 690a6299-b57d-4d1c-8144-4e836954ac8e
 a=rtcp-mux
 a=rtpmap:114 opus/48000/2
 a=fmtp:114 minptime=10;useinbandfec=1
 a=rtpmap:0 PCMU/8000
 a=rtpmap:8 PCMA/8000
 a=rtpmap:101 telephone-event/8000
-a=ssrc:2240221980 cname:o0gLvfzs2jWo5ubQ
-a=ssrc:2240221980 msid:ADNcjen66KbTd5eDkl5Go3iuST5Vw75e0XIC c5acfdd5-ee1c-4f5f-bc2d-3b1c0a591bf7
-a=ssrc:2240221980 mslabel:ADNcjen66KbTd5eDkl5Go3iuST5Vw75e0XIC
-a=ssrc:2240221980 label:c5acfdd5-ee1c-4f5f-bc2d-3b1c0a591bf7
+a=ssrc:3159442754 cname:w/AP23Rij/01FbYo
+a=ssrc:3159442754 msid:6bdGULwVd54ocfxkUMEs5fC8YwcpUbSG3791 690a6299-b57d-4d1c-8144-4e836954ac8e
+a=ssrc:3159442754 mslabel:6bdGULwVd54ocfxkUMEs5fC8YwcpUbSG3791
+a=ssrc:3159442754 label:690a6299-b57d-4d1c-8144-4e836954ac8e
 
-voximplant.min.js:1 VIWSLR 19 0 INFO TransreceiverPC __default: _processRemoteOffer(), set local SDP: 
+​ VIWSLR 19 0 INFO TransreceiverPC __default: _processRemoteOffer(), set local SDP: 
 v=0
-o=- 9092559640562683403 2 IN IP4 127.0.0.1
+o=- 2177515004436616941 2 IN IP4 127.0.0.1
 s=-
 t=0 0
-a=msid-semantic: WMS ADNcjen66KbTd5eDkl5Go3iuST5Vw75e0XIC
+a=msid-semantic: WMS 6bdGULwVd54ocfxkUMEs5fC8YwcpUbSG3791
 m=audio 9 RTP/SAVPF 114 0 8 101
 c=IN IP4 0.0.0.0
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:uy25
-a=ice-pwd:2EvRjaT/oAF0OK7sFoFZIa+D
+a=ice-ufrag:CWL1
+a=ice-pwd:/ZKDunYEFagy9bji27OAN/b4
 a=ice-options:trickle
-a=fingerprint:sha-256 B2:94:80:A3:01:7D:96:DA:89:E3:89:4B:E7:55:DE:62:EF:AB:E4:1D:1A:64:B3:58:CB:57:27:1F:83:17:00:D6
+a=fingerprint:sha-256 6F:DD:2A:F4:5B:A1:94:D0:F9:BB:C6:DF:0E:21:DB:B7:C4:7D:8E:62:C8:DE:3D:51:8C:06:A7:DE:5D:D6:0F:6B
 a=setup:active
 a=mid:0
 a=sendonly
-a=msid:ADNcjen66KbTd5eDkl5Go3iuST5Vw75e0XIC c5acfdd5-ee1c-4f5f-bc2d-3b1c0a591bf7
+a=msid:6bdGULwVd54ocfxkUMEs5fC8YwcpUbSG3791 690a6299-b57d-4d1c-8144-4e836954ac8e
 a=rtcp-mux
 a=rtpmap:114 opus/48000/2
 a=fmtp:114 minptime=10;useinbandfec=1
 a=rtpmap:0 PCMU/8000
 a=rtpmap:8 PCMA/8000
 a=rtpmap:101 telephone-event/8000
-a=ssrc:2240221980 cname:o0gLvfzs2jWo5ubQ
-a=ssrc:2240221980 msid:ADNcjen66KbTd5eDkl5Go3iuST5Vw75e0XIC c5acfdd5-ee1c-4f5f-bc2d-3b1c0a591bf7
-a=ssrc:2240221980 mslabel:ADNcjen66KbTd5eDkl5Go3iuST5Vw75e0XIC
-a=ssrc:2240221980 label:c5acfdd5-ee1c-4f5f-bc2d-3b1c0a591bf7
+a=ssrc:3159442754 cname:w/AP23Rij/01FbYo
+a=ssrc:3159442754 msid:6bdGULwVd54ocfxkUMEs5fC8YwcpUbSG3791 690a6299-b57d-4d1c-8144-4e836954ac8e
+a=ssrc:3159442754 mslabel:6bdGULwVd54ocfxkUMEs5fC8YwcpUbSG3791
+a=ssrc:3159442754 label:690a6299-b57d-4d1c-8144-4e836954ac8e
 
-voximplant.min.js:1 VIWSLR 20 0 INFO TransreceiverPC __default: Signal state changed to stable for PC: __default
-voximplant.min.js:1 VIWSLR 21 0 INFO TransreceiverPC __default: End of candidates
-voximplant.min.js:1 VIWSLR 22 1 INFO [event]: ConnectionEstablished, listeners: 1
-voximplant.min.js:1 VIWSLR 23 1 INFO Client: login(testuser2@videochat.igorfokin.voximplant.com, ***, {receiveCalls: undefined})
-login.js:30 Logged in as  testuser2@videochat.igorfokin.voximplant.com
-voximplant.min.js:1 VIWSLR 24 1 INFO [event]: AuthResult, listeners: 1
-login.js:35 Successful authorization
-voximplant.min.js:1 VIWSLR 25 1 INFO TransreceiverPC __default: close()
-voximplant.min.js:1 VIWSLR 26 3 INFO [event]: IncomingCall, listeners: 1
-manage-call.js:2 An incoming call from: sip:testuser1@videochat.igorfokin.voximplant.com
-voximplant.min.js:1 VIWSLR 27 3 INFO Core: Create WebRTC on the {"_ua":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36","parsedResult":{"browser":{"name":"Chrome","version":"96.0.4664.45"},"os":{"name":"Linux"},"platform":{"type":"desktop"},"engine":{"name":"Blink"}}}
-voximplant.min.js:1 VIWSLR 28 3 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: PC created
-voximplant.min.js:1 VIWSLR 29 3 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _setRemoteDescription(), set remote SDP: 
+​ VIWSLR 20 0 INFO TransreceiverPC __default: Signal state changed to stable for PC: __default
+​ VIWSLR 21 0 INFO TransreceiverPC __default: End of candidates
+​ VIWSLR 22 0 INFO [event]: ConnectionEstablished, listeners: 1
+​ VIWSLR 23 0 INFO Client: login(testuser2@videochat.igorfokin.voximplant.com, ***, {receiveCalls: undefined})
+​ Logged in as  testuser2@videochat.igorfokin.voximplant.com
+​ VIWSLR 24 0 INFO [event]: AuthResult, listeners: 1
+​ Successful authorization
+​ VIWSLR 25 0 INFO TransreceiverPC __default: close()
+​ VIWSLR 26 5 INFO [event]: IncomingCall, listeners: 1
+​ An incoming call from: sip:testuser1@videochat.igorfokin.voximplant.com
+​ VIWSLR 27 5 INFO Core: Create WebRTC on the {"_ua":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36","parsedResult":{"browser":{"name":"Chrome","version":"96.0.4664.45"},"os":{"name":"Linux"},"platform":{"type":"desktop"},"engine":{"name":"Blink"}}}
+​ VIWSLR 28 5 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: PC created
+​ VIWSLR 29 5 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: _setRemoteDescription(), set remote SDP: 
 v=0
-o=- 2417758374 2 IN IP4 127.0.0.1
+o=- 3322775956 2 IN IP4 127.0.0.1
 s=-
 t=0 0
 a=group:BUNDLE 0 1
 a=extmap-allow-mixed
-a=msid-semantic: WMS QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
+a=msid-semantic: WMS MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
 a=_einvite-via-sipinfo
 m=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
 c=IN IP4 0.0.0.0
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:S/lh
-a=ice-pwd:RLjEBiNlYmYJ6Jgfv7GnBm4b
+a=ice-ufrag:Tgo7
+a=ice-pwd:DtKMstCEe9wHomFZwskCxl4h
 a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
+a=fingerprint:sha-256 45:7C:86:BA:A2:70:D2:C2:9C:9C:05:9B:8A:A5:97:10:05:F1:9D:3A:C9:4D:05:74:E0:A1:F8:D4:9F:5A:5E:D4
 a=setup:actpass
 a=mid:0
 a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
@@ -162,7 +162,7 @@ a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
 a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
 a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
 a=sendrecv
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
+a=msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I ecba85c9-7fd1-487e-b766-fe31f7d12dce
 a=rtcp-mux
 a=rtpmap:111 opus/48000/2
 a=rtcp-fb:111 transport-cc
@@ -179,17 +179,17 @@ a=rtpmap:110 telephone-event/48000
 a=rtpmap:112 telephone-event/32000
 a=rtpmap:113 telephone-event/16000
 a=rtpmap:126 telephone-event/8000
-a=ssrc:1719043808 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1719043808 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
-a=ssrc:1719043808 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:1719043808 label:93a6819c-43e9-434f-9920-dd2c98e9bed0
+a=ssrc:1775995748 cname:R+SZKHB3rk8ztp1T
+a=ssrc:1775995748 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I ecba85c9-7fd1-487e-b766-fe31f7d12dce
+a=ssrc:1775995748 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:1775995748 label:ecba85c9-7fd1-487e-b766-fe31f7d12dce
 m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
 c=IN IP4 0.0.0.0
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:S/lh
-a=ice-pwd:RLjEBiNlYmYJ6Jgfv7GnBm4b
+a=ice-ufrag:Tgo7
+a=ice-pwd:DtKMstCEe9wHomFZwskCxl4h
 a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
+a=fingerprint:sha-256 45:7C:86:BA:A2:70:D2:C2:9C:9C:05:9B:8A:A5:97:10:05:F1:9D:3A:C9:4D:05:74:E0:A1:F8:D4:9F:5A:5E:D4
 a=setup:actpass
 a=mid:1
 a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
@@ -292,14 +292,14 @@ a=rtpmap:119 rtx/90000
 a=fmtp:119 apt=120
 a=rtpmap:124 ulpfec/90000
 
-voximplant.min.js:1 VIWSLR 30 3 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 31 3 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 32 3 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to have-remote-offer for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 33 3 INFO [event]: EndpointAdded, listeners: 0
-voximplant.min.js:1 VIWSLR 34 3 INFO [event]: RemoteMediaAdded, listeners: 0
-voximplant.min.js:1 VIWSLR 35 3 INFO MediaRenderer: render()
-voximplant.min.js:1 VIWSLR 36 3 INFO [event]: MediaElementCreated, listeners: 0
-voximplant.min.js:1 VIWSLR 37 4 WARNING MediaRenderer: Can't start playing MediaRenderer ID:f2624854-177e-4dcd-a3d1-bc16612ba1eb
+​ VIWSLR 30 5 INFO [event]: SDP, listeners: 0
+​ VIWSLR 31 5 INFO [event]: SDP, listeners: 0
+​ VIWSLR 32 5 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: Signal state changed to have-remote-offer for PC: 7C73F1FA5DFF63C8.1640594353.10511813
+​ VIWSLR 33 5 INFO [event]: EndpointAdded, listeners: 0
+​ VIWSLR 34 5 INFO [event]: RemoteMediaAdded, listeners: 0
+​ VIWSLR 35 5 INFO MediaRenderer: render()
+​ VIWSLR 36 5 INFO [event]: MediaElementCreated, listeners: 0
+​ VIWSLR 37 5 WARNING MediaRenderer: Can't start playing MediaRenderer ID:9db17bb2-4286-4625-bfcc-da39c9c029dd
 value @ voximplant.min.js:1
 value @ voximplant.min.js:1
 value @ voximplant.min.js:1
@@ -321,8 +321,8 @@ value @ voximplant.min.js:1
 value @ voximplant.min.js:1
 value @ voximplant.min.js:1
 impl.ontrack.impl.ontrack @ voximplant.min.js:1
-voximplant.min.js:1 VIWSLR 38 4 INFO [event]: PlaybackError, listeners: 0
-voximplant.min.js:1 VIWSLR 39 4 WARNING MediaRenderer: Can't start playing MediaRenderer ID:f2624854-177e-4dcd-a3d1-bc16612ba1eb
+​ VIWSLR 38 5 INFO [event]: PlaybackError, listeners: 0
+​ VIWSLR 39 5 WARNING MediaRenderer: Can't start playing MediaRenderer ID:9db17bb2-4286-4625-bfcc-da39c9c029dd
 value @ voximplant.min.js:1
 value @ voximplant.min.js:1
 value @ voximplant.min.js:1
@@ -349,29 +349,29 @@ value @ voximplant.min.js:1
 value @ voximplant.min.js:1
 value @ voximplant.min.js:1
 impl.ontrack.impl.ontrack @ voximplant.min.js:1
-voximplant.min.js:1 VIWSLR 40 4 INFO [event]: PlaybackError, listeners: 0
-voximplant.min.js:1 VIWSLR 41 4 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 42 4 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 43 6 INFO Call 15FF10E97E0CB407.1640592780.9246464: answer(undefined)
-voximplant.min.js:1 VIWSLR 44 6 INFO StreamManager: [constraints]: {"video":false,"audio":{}}
-manage-call.js:60 The incoming call was answered
-voximplant.min.js:1 VIWSLR 45 6 INFO StreamManager: Media access granted
-voximplant.min.js:1 VIWSLR 46 6 INFO [event]: MicAccessResult, listeners: 0
-voximplant.min.js:1 VIWSLR 47 6 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _getLocalAnswer(), created local SDP: 
+​ VIWSLR 40 5 INFO [event]: PlaybackError, listeners: 0
+​ VIWSLR 41 5 INFO [event]: RTCStatsReceived, listeners: 0
+​ VIWSLR 42 5 INFO [event]: CallStatsReceived, listeners: 0
+​ VIWSLR 43 7 INFO Call 7C73F1FA5DFF63C8.1640594353.10511813: answer(undefined)
+​ VIWSLR 44 7 INFO StreamManager: [constraints]: {"video":false,"audio":{}}
+​ The incoming call was answered
+​ VIWSLR 45 7 INFO StreamManager: Media access granted
+​ VIWSLR 46 7 INFO [event]: MicAccessResult, listeners: 0
+​ VIWSLR 47 7 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: _getLocalAnswer(), created local SDP: 
 v=0
-o=- 3597308766549298171 2 IN IP4 127.0.0.1
+o=- 2511608031690499864 2 IN IP4 127.0.0.1
 s=-
 t=0 0
 a=group:BUNDLE 0 1
 a=extmap-allow-mixed
-a=msid-semantic: WMS 4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
+a=msid-semantic: WMS KzQ3Xcjciw9w9PP62C2rvqLfDKyrNutwFE0z
 m=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
 c=IN IP4 0.0.0.0
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:93Zy
-a=ice-pwd:d6linqobZbTOgwSCLO87EmSG
+a=ice-ufrag:wf20
+a=ice-pwd:/M3bi44nwQTc1/xaKRn920B3
 a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
+a=fingerprint:sha-256 65:9C:1A:0E:45:D3:21:93:38:F2:C9:70:5B:6A:75:CA:16:49:BF:CA:18:FF:C3:44:C3:D5:7A:8F:1B:BE:87:B4
 a=setup:active
 a=mid:0
 a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
@@ -381,7 +381,7 @@ a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
 a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
 a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
 a=sendrecv
-a=msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
+a=msid:KzQ3Xcjciw9w9PP62C2rvqLfDKyrNutwFE0z 51304d76-637c-4413-8669-54a9df2f83b9
 a=rtcp-mux
 a=rtpmap:111 opus/48000/2
 a=rtcp-fb:111 transport-cc
@@ -398,14 +398,14 @@ a=rtpmap:110 telephone-event/48000
 a=rtpmap:112 telephone-event/32000
 a=rtpmap:113 telephone-event/16000
 a=rtpmap:126 telephone-event/8000
-a=ssrc:2942899406 cname:bKL9oUgYSpjOQXne
+a=ssrc:2392298561 cname:W7wmerwCYhPnaXhu
 m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 35 36 120 119 124
 c=IN IP4 0.0.0.0
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:93Zy
-a=ice-pwd:d6linqobZbTOgwSCLO87EmSG
+a=ice-ufrag:wf20
+a=ice-pwd:/M3bi44nwQTc1/xaKRn920B3
 a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
+a=fingerprint:sha-256 65:9C:1A:0E:45:D3:21:93:38:F2:C9:70:5B:6A:75:CA:16:49:BF:CA:18:FF:C3:44:C3:D5:7A:8F:1B:BE:87:B4
 a=setup:active
 a=mid:1
 a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
@@ -497,23 +497,23 @@ a=rtpmap:119 rtx/90000
 a=fmtp:119 apt=120
 a=rtpmap:124 ulpfec/90000
 
-voximplant.min.js:1 VIWSLR 48 6 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: No sdp codecs transformer registered
-voximplant.min.js:1 VIWSLR 49 6 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _getLocalAnswer(), set local SDP: 
+​ VIWSLR 48 7 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: No sdp codecs transformer registered
+​ VIWSLR 49 7 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: _getLocalAnswer(), set local SDP: 
 v=0
-o=- 3597308766549298171 2 IN IP4 127.0.0.1
+o=- 2511608031690499864 2 IN IP4 127.0.0.1
 s=-
 t=0 0
 a=group:BUNDLE 0 1
 a=extmap-allow-mixed
-a=msid-semantic: WMS 4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
+a=msid-semantic: WMS KzQ3Xcjciw9w9PP62C2rvqLfDKyrNutwFE0z
 m=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
 c=IN IP4 0.0.0.0
 a=sendrecv
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:93Zy
-a=ice-pwd:d6linqobZbTOgwSCLO87EmSG
+a=ice-ufrag:wf20
+a=ice-pwd:/M3bi44nwQTc1/xaKRn920B3
 a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
+a=fingerprint:sha-256 65:9C:1A:0E:45:D3:21:93:38:F2:C9:70:5B:6A:75:CA:16:49:BF:CA:18:FF:C3:44:C3:D5:7A:8F:1B:BE:87:B4
 a=setup:active
 a=mid:0
 a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
@@ -522,7 +522,7 @@ a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extension
 a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
 a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
 a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
+a=msid:KzQ3Xcjciw9w9PP62C2rvqLfDKyrNutwFE0z 51304d76-637c-4413-8669-54a9df2f83b9
 a=rtcp-mux
 a=rtpmap:111 opus/48000/2
 a=rtcp-fb:111 transport-cc
@@ -539,15 +539,15 @@ a=rtpmap:110 telephone-event/48000
 a=rtpmap:112 telephone-event/32000
 a=rtpmap:113 telephone-event/16000
 a=rtpmap:126 telephone-event/8000
-a=ssrc:2942899406 cname:bKL9oUgYSpjOQXne
+a=ssrc:2392298561 cname:W7wmerwCYhPnaXhu
 m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 102 122 127 121 125 107 108 109 35 36 120 119 124
 c=IN IP4 0.0.0.0
 a=inactive
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:93Zy
-a=ice-pwd:d6linqobZbTOgwSCLO87EmSG
+a=ice-ufrag:wf20
+a=ice-pwd:/M3bi44nwQTc1/xaKRn920B3
 a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
+a=fingerprint:sha-256 65:9C:1A:0E:45:D3:21:93:38:F2:C9:70:5B:6A:75:CA:16:49:BF:CA:18:FF:C3:44:C3:D5:7A:8F:1B:BE:87:B4
 a=setup:active
 a=mid:1
 a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
@@ -638,37 +638,37 @@ a=rtpmap:119 rtx/90000
 a=fmtp:119 apt=120
 a=rtpmap:124 ulpfec/90000
 
-voximplant.min.js:1 VIWSLR 50 6 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 51 6 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 52 6 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to stable for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 53 6 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 54 6 INFO CallManager: handleConnectionConnected(), received SDP: 
+​ VIWSLR 50 7 INFO [event]: SDP, listeners: 0
+​ VIWSLR 51 7 INFO [event]: SDP, listeners: 0
+​ VIWSLR 52 7 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: Signal state changed to stable for PC: 7C73F1FA5DFF63C8.1640594353.10511813
+​ VIWSLR 53 7 INFO [event]: SDP, listeners: 0
+​ VIWSLR 54 7 INFO CallManager: handleConnectionConnected(), received SDP: 
 
-voximplant.min.js:1 VIWSLR 55 6 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 56 6 INFO [event]: Connected, listeners: 0
-voximplant.min.js:1 VIWSLR 57 6 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 58 6 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: End of candidates
-voximplant.min.js:1 VIWSLR 59 6 INFO Call 15FF10E97E0CB407.1640592780.9246464: sendInfo(voximplant/sdpfrag, "[[0,\"a=candidate:3385076907 1 udp 2122260223 192.168.1.85 49526 typ host generation 0 ufrag 93Zy network-id 1 network-cost 10\"],[0,\"a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4626 typ srflx raddr 192.168.1.85 rport 49526 generation 0 ufrag 93Zy network-id 1 network-cost 10\"],[0,\"a=candidate:642126132 1 udp 41886207 95.213.228.4 52858 typ relay raddr 212.109.30.88 rport 4626 generation 0 ufrag 93Zy network-id 1 network-cost 10\"],[0,\"a=candidate:642126132 1 udp 41885695 95.213.228.4 54194 typ relay raddr 212.109.30.88 rport 4626 generation 0 ufrag 93Zy network-id 1 network-cost 10\"],[0,\"a=candidate:1757801924 1 udp 25108735 95.213.228.4 51532 typ relay raddr 212.109.30.88 rport 1935 generation 0 ufrag 93Zy network-id 1 network-cost 10\"],[0,\"a=candidate:1757801924 1 udp 25108223 95.213.228.4 57761 typ relay raddr 212.109.30.88 rport 1976 generation 0 ufrag 93Zy network-id 1 network-cost 10\"],[0,\"a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 0 ufrag 93Zy network-id 1 network-cost 10\"]]")
-voximplant.min.js:1 VIWSLR 60 6 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 61 6 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 62 6 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 63 6 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 64 7 INFO CallManager: handleInReinvite(), received SDP: 
+​ VIWSLR 55 7 INFO [event]: StateUpdated, listeners: 0
+​ VIWSLR 56 7 INFO [event]: Connected, listeners: 0
+​ VIWSLR 57 7 INFO [event]: SDP, listeners: 0
+​ VIWSLR 58 7 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: End of candidates
+​ VIWSLR 59 7 INFO Call 7C73F1FA5DFF63C8.1640594353.10511813: sendInfo(voximplant/sdpfrag, "[[0,\"a=candidate:3385076907 1 udp 2122260223 192.168.1.85 46545 typ host generation 0 ufrag wf20 network-id 1 network-cost 10\"],[0,\"a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4099 typ srflx raddr 192.168.1.85 rport 46545 generation 0 ufrag wf20 network-id 1 network-cost 10\"],[0,\"a=candidate:642126132 1 udp 41886207 95.213.228.4 51844 typ relay raddr 212.109.30.88 rport 4099 generation 0 ufrag wf20 network-id 1 network-cost 10\"],[0,\"a=candidate:642126132 1 udp 41885695 95.213.228.4 58143 typ relay raddr 212.109.30.88 rport 4099 generation 0 ufrag wf20 network-id 1 network-cost 10\"],[0,\"a=candidate:1757801924 1 udp 25108735 95.213.228.4 56896 typ relay raddr 212.109.30.88 rport 1937 generation 0 ufrag wf20 network-id 1 network-cost 10\"],[0,\"a=candidate:1757801924 1 udp 25108223 95.213.228.4 51480 typ relay raddr 212.109.30.88 rport 1938 generation 0 ufrag wf20 network-id 1 network-cost 10\"],[0,\"a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 0 ufrag wf20 network-id 1 network-cost 10\"]]")
+​ VIWSLR 60 7 INFO [event]: SDP, listeners: 0
+​ VIWSLR 61 7 INFO [event]: SDP, listeners: 0
+​ VIWSLR 62 7 INFO [event]: SDP, listeners: 0
+​ VIWSLR 63 7 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 64 8 INFO CallManager: handleInReinvite(), received SDP: 
 v=0
-o=- 2417758374 3 IN IP4 127.0.0.1
+o=- 3322775956 3 IN IP4 127.0.0.1
 s=-
 t=0 0
 a=group:BUNDLE 0 1
 a=extmap-allow-mixed
-a=msid-semantic: WMS QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
+a=msid-semantic: WMS MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
 m=audio 9 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
 c=IN IP4 0.0.0.0
 a=sendrecv
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
+a=ice-ufrag:JXZR
+a=ice-pwd:QSdJ3AFuJjQt+PbmCo3AaNrb
 a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
+a=fingerprint:sha-256 45:7C:86:BA:A2:70:D2:C2:9C:9C:05:9B:8A:A5:97:10:05:F1:9D:3A:C9:4D:05:74:E0:A1:F8:D4:9F:5A:5E:D4
 a=setup:actpass
 a=mid:0
 a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
@@ -677,7 +677,7 @@ a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extension
 a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
 a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
 a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
+a=msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I ecba85c9-7fd1-487e-b766-fe31f7d12dce
 a=rtcp-mux
 a=rtpmap:111 opus/48000/2
 a=rtcp-fb:111 transport-cc
@@ -694,18 +694,18 @@ a=rtpmap:110 telephone-event/48000
 a=rtpmap:112 telephone-event/32000
 a=rtpmap:113 telephone-event/16000
 a=rtpmap:126 telephone-event/8000
-a=ssrc:1719043808 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1719043808 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
-a=ssrc:1719043808 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:1719043808 label:93a6819c-43e9-434f-9920-dd2c98e9bed0
+a=ssrc:1775995748 cname:R+SZKHB3rk8ztp1T
+a=ssrc:1775995748 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I ecba85c9-7fd1-487e-b766-fe31f7d12dce
+a=ssrc:1775995748 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:1775995748 label:ecba85c9-7fd1-487e-b766-fe31f7d12dce
 m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
 c=IN IP4 0.0.0.0
 a=recvonly
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
+a=ice-ufrag:JXZR
+a=ice-pwd:QSdJ3AFuJjQt+PbmCo3AaNrb
 a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
+a=fingerprint:sha-256 45:7C:86:BA:A2:70:D2:C2:9C:9C:05:9B:8A:A5:97:10:05:F1:9D:3A:C9:4D:05:74:E0:A1:F8:D4:9F:5A:5E:D4
 a=setup:actpass
 a=mid:1
 a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
@@ -807,54 +807,52 @@ a=rtpmap:119 rtx/90000
 a=fmtp:119 apt=120
 a=rtpmap:124 ulpfec/90000
 
-voximplant.min.js:1 VIWSLR 65 7 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 66 7 INFO [event]: PendingUpdate, listeners: 2
-voximplant.min.js:1 VIWSLR 67 7 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 68 7 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to have-remote-offer for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 69 7 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 70 7 INFO [event]: Updated, listeners: 2
-voximplant.min.js:1 VIWSLR 71 7 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 72 7 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to stable for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 73 7 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 74 7 INFO Call 15FF10E97E0CB407.1640592780.9246464: unmuteMicrophone()
-voximplant.min.js:1 VIWSLR 75 7 INFO MediaRenderer: setVolume(1)
-voximplant.min.js:1 VIWSLR 76 7 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: addRemoteCandidate(a=candidate:3385076907 1 udp 2122260223 192.168.1.85 42827 typ host generation 1 ufrag kMxd network-id 1 network-cost 10, 0)
-voximplant.min.js:1 VIWSLR 77 7 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: addRemoteCandidate(a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4111 typ srflx raddr 192.168.1.85 rport 42827 generation 1 ufrag kMxd network-id 1 network-cost 10, 0)
-voximplant.min.js:1 VIWSLR 78 7 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: addRemoteCandidate(a=candidate:642126132 1 udp 41885695 95.213.228.4 56741 typ relay raddr 212.109.30.88 rport 4111 generation 1 ufrag kMxd network-id 1 network-cost 10, 0)
-voximplant.min.js:1 VIWSLR 79 7 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: addRemoteCandidate(a=candidate:642126132 1 udp 41886207 95.213.228.4 59456 typ relay raddr 212.109.30.88 rport 4111 generation 1 ufrag kMxd network-id 1 network-cost 10, 0)
-voximplant.min.js:1 VIWSLR 80 7 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: addRemoteCandidate(a=candidate:1757801924 1 udp 25108735 95.213.228.4 58119 typ relay raddr 212.109.30.88 rport 1977 generation 1 ufrag kMxd network-id 1 network-cost 10, 0)
-voximplant.min.js:1 VIWSLR 81 7 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: addRemoteCandidate(a=candidate:1757801924 1 udp 25108223 95.213.228.4 58346 typ relay raddr 212.109.30.88 rport 1978 generation 1 ufrag kMxd network-id 1 network-cost 10, 0)
-voximplant.min.js:1 VIWSLR 82 7 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: addRemoteCandidate(a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 ufrag kMxd network-id 1 network-cost 10, 0)
-voximplant.min.js:1 VIWSLR 83 7 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 84 7 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: End of candidates
-voximplant.min.js:1 VIWSLR 85 7 INFO Call 15FF10E97E0CB407.1640592780.9246464: sendInfo(voximplant/sdpfrag, "[[0,\"a=candidate:3385076907 1 udp 2122260223 192.168.1.85 48250 typ host generation 1 ufrag hWcZ network-id 1 network-cost 10\"],[0,\"a=candidate:1757801924 1 udp 25108223 95.213.228.4 52462 typ relay raddr 212.109.30.88 rport 1981 generation 1 ufrag hWcZ network-id 1 network-cost 10\"],[0,\"a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 ufrag hWcZ network-id 1 network-cost 10\"],[0,\"a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4628 typ srflx raddr 192.168.1.85 rport 48250 generation 1 ufrag hWcZ network-id 1 network-cost 10\"],[0,\"a=candidate:642126132 1 udp 41885695 95.213.228.4 51846 typ relay raddr 212.109.30.88 rport 4628 generation 1 ufrag hWcZ network-id 1 network-cost 10\"],[0,\"a=candidate:1757801924 1 udp 25108735 95.213.228.4 57599 typ relay raddr 212.109.30.88 rport 1979 generation 1 ufrag hWcZ network-id 1 network-cost 10\"],[0,\"a=candidate:642126132 1 udp 41886207 95.213.228.4 50234 typ relay raddr 212.109.30.88 rport 4628 generation 1 ufrag hWcZ network-id 1 network-cost 10\"]]")
-voximplant.min.js:1 VIWSLR 86 8 INFO Call 15FF10E97E0CB407.1640592780.9246464: muteMicrophone()
-voximplant.min.js:1 VIWSLR 87 15 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 88 15 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 89 16 INFO CallManager: handleInReinvite(), received SDP: 
+voximplant.min.js:1 VIWSLR 65 8 INFO [event]: StateUpdated, listeners: 0
+voximplant.min.js:1 VIWSLR 66 8 INFO [event]: PendingUpdate, listeners: 2
+voximplant.min.js:1 VIWSLR 67 8 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 68 8 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: Signal state changed to have-remote-offer for PC: 7C73F1FA5DFF63C8.1640594353.10511813
+voximplant.min.js:1 VIWSLR 69 8 INFO [event]: StateUpdated, listeners: 0
+voximplant.min.js:1 VIWSLR 70 8 INFO [event]: Updated, listeners: 2
+voximplant.min.js:1 VIWSLR 71 8 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 72 8 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: Signal state changed to stable for PC: 7C73F1FA5DFF63C8.1640594353.10511813
+voximplant.min.js:1 VIWSLR 73 8 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 74 8 INFO MediaRenderer: setVolume(1)
+voximplant.min.js:1 VIWSLR 75 8 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 76 8 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: End of candidates
+voximplant.min.js:1 VIWSLR 77 8 INFO Call 7C73F1FA5DFF63C8.1640594353.10511813: sendInfo(voximplant/sdpfrag, "[[0,\"a=candidate:3385076907 1 udp 2122260223 192.168.1.85 48125 typ host generation 1 ufrag Q9VP network-id 1 network-cost 10\"],[0,\"a=candidate:1757801924 1 udp 25108223 95.213.228.4 58307 typ relay raddr 212.109.30.88 rport 1947 generation 1 ufrag Q9VP network-id 1 network-cost 10\"],[0,\"a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 ufrag Q9VP network-id 1 network-cost 10\"],[0,\"a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4101 typ srflx raddr 192.168.1.85 rport 48125 generation 1 ufrag Q9VP network-id 1 network-cost 10\"],[0,\"a=candidate:642126132 1 udp 41886207 95.213.228.4 54862 typ relay raddr 212.109.30.88 rport 4101 generation 1 ufrag Q9VP network-id 1 network-cost 10\"],[0,\"a=candidate:1757801924 1 udp 25108735 95.213.228.4 59367 typ relay raddr 212.109.30.88 rport 1946 generation 1 ufrag Q9VP network-id 1 network-cost 10\"],[0,\"a=candidate:642126132 1 udp 41885695 95.213.228.4 59994 typ relay raddr 212.109.30.88 rport 4101 generation 1 ufrag Q9VP network-id 1 network-cost 10\"]]")
+voximplant.min.js:1 VIWSLR 78 8 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: addRemoteCandidate(a=candidate:3385076907 1 udp 2122260223 192.168.1.85 44654 typ host generation 1 ufrag JXZR network-id 1 network-cost 10, 0)
+voximplant.min.js:1 VIWSLR 79 8 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: addRemoteCandidate(a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4620 typ srflx raddr 192.168.1.85 rport 44654 generation 1 ufrag JXZR network-id 1 network-cost 10, 0)
+voximplant.min.js:1 VIWSLR 80 8 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: addRemoteCandidate(a=candidate:642126132 1 udp 41886207 95.213.228.4 52525 typ relay raddr 212.109.30.88 rport 4620 generation 1 ufrag JXZR network-id 1 network-cost 10, 0)
+voximplant.min.js:1 VIWSLR 81 8 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: addRemoteCandidate(a=candidate:642126132 1 udp 41885695 95.213.228.4 54980 typ relay raddr 212.109.30.88 rport 4620 generation 1 ufrag JXZR network-id 1 network-cost 10, 0)
+voximplant.min.js:1 VIWSLR 82 8 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: addRemoteCandidate(a=candidate:1757801924 1 udp 25108223 95.213.228.4 50421 typ relay raddr 212.109.30.88 rport 1944 generation 1 ufrag JXZR network-id 1 network-cost 10, 0)
+voximplant.min.js:1 VIWSLR 83 8 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: addRemoteCandidate(a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 ufrag JXZR network-id 1 network-cost 10, 0)
+voximplant.min.js:1 VIWSLR 84 8 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: addRemoteCandidate(a=candidate:1757801924 1 udp 25108735 95.213.228.4 59692 typ relay raddr 212.109.30.88 rport 1940 generation 1 ufrag JXZR network-id 1 network-cost 10, 0)
+voximplant.min.js:1 VIWSLR 85 9 INFO Call 7C73F1FA5DFF63C8.1640594353.10511813: unmuteMicrophone()
+voximplant.min.js:1 VIWSLR 86 9 INFO Call 7C73F1FA5DFF63C8.1640594353.10511813: muteMicrophone()
+voximplant.min.js:1 VIWSLR 87 15 INFO CallManager: handleInReinvite(), received SDP: 
 v=0
-o=- 2417758374 4 IN IP4 127.0.0.1
+o=- 3322775956 4 IN IP4 127.0.0.1
 s=-
 t=0 0
 a=group:BUNDLE 0 1
 a=extmap-allow-mixed
-a=msid-semantic: WMS QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-m=audio 56741 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
+a=msid-semantic: WMS MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+m=audio 52525 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
 c=IN IP4 95.213.228.4
 a=sendrecv
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
+a=ice-ufrag:JXZR
+a=ice-pwd:QSdJ3AFuJjQt+PbmCo3AaNrb
 a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
+a=fingerprint:sha-256 45:7C:86:BA:A2:70:D2:C2:9C:9C:05:9B:8A:A5:97:10:05:F1:9D:3A:C9:4D:05:74:E0:A1:F8:D4:9F:5A:5E:D4
 a=setup:actpass
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 42827 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4111 typ srflx raddr 192.168.1.85 rport 42827 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 56741 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 59456 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 58119 typ relay raddr 212.109.30.88 rport 1977 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 58346 typ relay raddr 212.109.30.88 rport 1978 generation 1 network-id 1 network-cost 10
+a=candidate:3385076907 1 udp 2122260223 192.168.1.85 44654 typ host generation 1 network-id 1 network-cost 10
+a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4620 typ srflx raddr 192.168.1.85 rport 44654 generation 1 network-id 1 network-cost 10
+a=candidate:642126132 1 udp 41886207 95.213.228.4 52525 typ relay raddr 212.109.30.88 rport 4620 generation 1 network-id 1 network-cost 10
+a=candidate:642126132 1 udp 41885695 95.213.228.4 54980 typ relay raddr 212.109.30.88 rport 4620 generation 1 network-id 1 network-cost 10
+a=candidate:1757801924 1 udp 25108223 95.213.228.4 50421 typ relay raddr 212.109.30.88 rport 1944 generation 1 network-id 1 network-cost 10
 a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
+a=candidate:1757801924 1 udp 25108735 95.213.228.4 59692 typ relay raddr 212.109.30.88 rport 1940 generation 1 network-id 1 network-cost 10
 a=mid:0
 a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
 a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
@@ -862,7 +860,7 @@ a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extension
 a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
 a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
 a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
+a=msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I ecba85c9-7fd1-487e-b766-fe31f7d12dce
 a=rtcp-mux
 a=rtpmap:111 opus/48000/2
 a=rtcp-fb:111 transport-cc
@@ -879,18 +877,18 @@ a=rtpmap:110 telephone-event/48000
 a=rtpmap:112 telephone-event/32000
 a=rtpmap:113 telephone-event/16000
 a=rtpmap:126 telephone-event/8000
-a=ssrc:1719043808 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1719043808 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
-a=ssrc:1719043808 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:1719043808 label:93a6819c-43e9-434f-9920-dd2c98e9bed0
+a=ssrc:1775995748 cname:R+SZKHB3rk8ztp1T
+a=ssrc:1775995748 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I ecba85c9-7fd1-487e-b766-fe31f7d12dce
+a=ssrc:1775995748 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:1775995748 label:ecba85c9-7fd1-487e-b766-fe31f7d12dce
 m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
 c=IN IP4 0.0.0.0
 a=sendrecv
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
+a=ice-ufrag:JXZR
+a=ice-pwd:QSdJ3AFuJjQt+PbmCo3AaNrb
 a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
+a=fingerprint:sha-256 45:7C:86:BA:A2:70:D2:C2:9C:9C:05:9B:8A:A5:97:10:05:F1:9D:3A:C9:4D:05:74:E0:A1:F8:D4:9F:5A:5E:D4
 a=setup:actpass
 a=mid:1
 a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
@@ -904,10 +902,10 @@ a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
 a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
 a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
 a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
+a=msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I 488d10b3-3d55-4789-969c-47dccd0282d9
 a=rtcp-mux
 a=rtcp-rsize
-a=ssrc-group:FID 2456097457 1102092625
+a=ssrc-group:FID 245677141 1960633248
 a=rtpmap:96 VP8/90000
 a=rtcp-fb:96 goog-remb
 a=rtcp-fb:96 transport-cc
@@ -993,56 +991,54 @@ a=rtpmap:120 red/90000
 a=rtpmap:119 rtx/90000
 a=fmtp:119 apt=120
 a=rtpmap:124 ulpfec/90000
-a=ssrc:2456097457 cname:FCCMlW9BxaKC7rzk
-a=ssrc:2456097457 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=ssrc:2456097457 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:2456097457 label:d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=ssrc:1102092625 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1102092625 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=ssrc:1102092625 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:1102092625 label:d93d0b74-db48-421f-9b7d-f7fd4db79b79
+a=ssrc:245677141 cname:R+SZKHB3rk8ztp1T
+a=ssrc:245677141 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I 488d10b3-3d55-4789-969c-47dccd0282d9
+a=ssrc:245677141 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:245677141 label:488d10b3-3d55-4789-969c-47dccd0282d9
+a=ssrc:1960633248 cname:R+SZKHB3rk8ztp1T
+a=ssrc:1960633248 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I 488d10b3-3d55-4789-969c-47dccd0282d9
+a=ssrc:1960633248 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:1960633248 label:488d10b3-3d55-4789-969c-47dccd0282d9
 
-voximplant.min.js:1 VIWSLR 90 16 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 91 16 INFO [event]: PendingUpdate, listeners: 2
-voximplant.min.js:1 VIWSLR 92 16 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 93 16 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to have-remote-offer for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 94 16 INFO [event]: RemoteMediaAdded, listeners: 0
-voximplant.min.js:1 VIWSLR 95 16 INFO MediaRenderer: render()
-voximplant.min.js:1 VIWSLR 96 16 INFO [event]: MediaElementCreated, listeners: 0
-voximplant.min.js:1 VIWSLR 97 16 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 98 16 INFO [event]: Updated, listeners: 2
-voximplant.min.js:1 VIWSLR 99 16 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 100 16 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to stable for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 101 17 INFO MediaRenderer: setVolume(1)
-voximplant.min.js:1 VIWSLR 102 17 INFO MediaRenderer: setVolume(1)
-voximplant.min.js:1 VIWSLR 103 26 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 104 26 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 105 36 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 106 36 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 107 39 INFO CallManager: handleInReinvite(), received SDP: 
+voximplant.min.js:1 VIWSLR 88 15 INFO [event]: StateUpdated, listeners: 0
+voximplant.min.js:1 VIWSLR 89 15 INFO [event]: PendingUpdate, listeners: 2
+voximplant.min.js:1 VIWSLR 90 15 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 91 15 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: Signal state changed to have-remote-offer for PC: 7C73F1FA5DFF63C8.1640594353.10511813
+voximplant.min.js:1 VIWSLR 92 15 INFO [event]: RemoteMediaAdded, listeners: 0
+voximplant.min.js:1 VIWSLR 93 15 INFO MediaRenderer: render()
+voximplant.min.js:1 VIWSLR 94 15 INFO [event]: MediaElementCreated, listeners: 0
+voximplant.min.js:1 VIWSLR 95 15 INFO [event]: StateUpdated, listeners: 0
+voximplant.min.js:1 VIWSLR 96 15 INFO [event]: Updated, listeners: 2
+voximplant.min.js:1 VIWSLR 97 15 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 98 15 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: Signal state changed to stable for PC: 7C73F1FA5DFF63C8.1640594353.10511813
+voximplant.min.js:1 VIWSLR 99 15 INFO MediaRenderer: setVolume(1)
+voximplant.min.js:1 VIWSLR 100 15 INFO MediaRenderer: setVolume(1)
+voximplant.min.js:1 VIWSLR 101 16 INFO [event]: RTCStatsReceived, listeners: 0
+voximplant.min.js:1 VIWSLR 102 16 INFO [event]: CallStatsReceived, listeners: 0
+voximplant.min.js:1 VIWSLR 103 21 INFO CallManager: handleInReinvite(), received SDP: 
 v=0
-o=- 2417758374 5 IN IP4 127.0.0.1
+o=- 3322775956 5 IN IP4 127.0.0.1
 s=-
 t=0 0
 a=group:BUNDLE 0 1
 a=extmap-allow-mixed
-a=msid-semantic: WMS QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-m=audio 56741 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
+a=msid-semantic: WMS MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+m=audio 52525 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
 c=IN IP4 95.213.228.4
 a=sendrecv
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
+a=ice-ufrag:JXZR
+a=ice-pwd:QSdJ3AFuJjQt+PbmCo3AaNrb
 a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
+a=fingerprint:sha-256 45:7C:86:BA:A2:70:D2:C2:9C:9C:05:9B:8A:A5:97:10:05:F1:9D:3A:C9:4D:05:74:E0:A1:F8:D4:9F:5A:5E:D4
 a=setup:actpass
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 42827 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4111 typ srflx raddr 192.168.1.85 rport 42827 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 56741 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 59456 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 58119 typ relay raddr 212.109.30.88 rport 1977 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 58346 typ relay raddr 212.109.30.88 rport 1978 generation 1 network-id 1 network-cost 10
+a=candidate:3385076907 1 udp 2122260223 192.168.1.85 44654 typ host generation 1 network-id 1 network-cost 10
+a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4620 typ srflx raddr 192.168.1.85 rport 44654 generation 1 network-id 1 network-cost 10
+a=candidate:642126132 1 udp 41886207 95.213.228.4 52525 typ relay raddr 212.109.30.88 rport 4620 generation 1 network-id 1 network-cost 10
+a=candidate:642126132 1 udp 41885695 95.213.228.4 54980 typ relay raddr 212.109.30.88 rport 4620 generation 1 network-id 1 network-cost 10
+a=candidate:1757801924 1 udp 25108223 95.213.228.4 50421 typ relay raddr 212.109.30.88 rport 1944 generation 1 network-id 1 network-cost 10
 a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
+a=candidate:1757801924 1 udp 25108735 95.213.228.4 59692 typ relay raddr 212.109.30.88 rport 1940 generation 1 network-id 1 network-cost 10
 a=mid:0
 a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
 a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
@@ -1050,7 +1046,7 @@ a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extension
 a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
 a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
 a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
+a=msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I ecba85c9-7fd1-487e-b766-fe31f7d12dce
 a=rtcp-mux
 a=rtpmap:111 opus/48000/2
 a=rtcp-fb:111 transport-cc
@@ -1067,18 +1063,18 @@ a=rtpmap:110 telephone-event/48000
 a=rtpmap:112 telephone-event/32000
 a=rtpmap:113 telephone-event/16000
 a=rtpmap:126 telephone-event/8000
-a=ssrc:1719043808 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1719043808 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
-a=ssrc:1719043808 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:1719043808 label:93a6819c-43e9-434f-9920-dd2c98e9bed0
+a=ssrc:1775995748 cname:R+SZKHB3rk8ztp1T
+a=ssrc:1775995748 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I ecba85c9-7fd1-487e-b766-fe31f7d12dce
+a=ssrc:1775995748 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:1775995748 label:ecba85c9-7fd1-487e-b766-fe31f7d12dce
 m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
 c=IN IP4 0.0.0.0
 a=recvonly
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
+a=ice-ufrag:JXZR
+a=ice-pwd:QSdJ3AFuJjQt+PbmCo3AaNrb
 a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
+a=fingerprint:sha-256 45:7C:86:BA:A2:70:D2:C2:9C:9C:05:9B:8A:A5:97:10:05:F1:9D:3A:C9:4D:05:74:E0:A1:F8:D4:9F:5A:5E:D4
 a=setup:actpass
 a=mid:1
 a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
@@ -1092,10 +1088,10 @@ a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
 a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
 a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
 a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
+a=msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I 488d10b3-3d55-4789-969c-47dccd0282d9
 a=rtcp-mux
 a=rtcp-rsize
-a=ssrc-group:FID 2456097457 1102092625
+a=ssrc-group:FID 245677141 1960633248
 a=rtpmap:96 VP8/90000
 a=rtcp-fb:96 goog-remb
 a=rtcp-fb:96 transport-cc
@@ -1181,53 +1177,50 @@ a=rtpmap:120 red/90000
 a=rtpmap:119 rtx/90000
 a=fmtp:119 apt=120
 a=rtpmap:124 ulpfec/90000
-a=ssrc:2456097457 cname:FCCMlW9BxaKC7rzk
-a=ssrc:2456097457 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=ssrc:2456097457 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:2456097457 label:d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=ssrc:1102092625 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1102092625 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=ssrc:1102092625 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:1102092625 label:d93d0b74-db48-421f-9b7d-f7fd4db79b79
+a=ssrc:245677141 cname:R+SZKHB3rk8ztp1T
+a=ssrc:245677141 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I 488d10b3-3d55-4789-969c-47dccd0282d9
+a=ssrc:245677141 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:245677141 label:488d10b3-3d55-4789-969c-47dccd0282d9
+a=ssrc:1960633248 cname:R+SZKHB3rk8ztp1T
+a=ssrc:1960633248 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I 488d10b3-3d55-4789-969c-47dccd0282d9
+a=ssrc:1960633248 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:1960633248 label:488d10b3-3d55-4789-969c-47dccd0282d9
 
-voximplant.min.js:1 VIWSLR 108 39 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 109 39 INFO [event]: PendingUpdate, listeners: 2
-voximplant.min.js:1 VIWSLR 110 39 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 111 39 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to have-remote-offer for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 112 39 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 113 39 INFO [event]: Updated, listeners: 2
-voximplant.min.js:1 VIWSLR 114 39 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 115 39 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to stable for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 116 39 INFO [event]: RemoteMediaRemoved, listeners: 0
-voximplant.min.js:1 VIWSLR 117 39 INFO [event]: MediaElementRemoved, listeners: 0
-voximplant.min.js:1 VIWSLR 118 40 INFO MediaRenderer: setVolume(1)
-voximplant.min.js:1 VIWSLR 119 46 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 120 46 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 121 49 INFO MediaRenderer: MediaRendered ID: already removing cefbcb01-4c3c-424e-9525-461f8ada482d. Ignored.
-voximplant.min.js:1 VIWSLR 122 55 INFO CallManager: handleInReinvite(), received SDP: 
+voximplant.min.js:1 VIWSLR 104 21 INFO [event]: StateUpdated, listeners: 0
+voximplant.min.js:1 VIWSLR 105 21 INFO [event]: PendingUpdate, listeners: 2
+voximplant.min.js:1 VIWSLR 106 21 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 107 21 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: Signal state changed to have-remote-offer for PC: 7C73F1FA5DFF63C8.1640594353.10511813
+voximplant.min.js:1 VIWSLR 108 21 INFO [event]: StateUpdated, listeners: 0
+voximplant.min.js:1 VIWSLR 109 21 INFO [event]: Updated, listeners: 2
+voximplant.min.js:1 VIWSLR 110 21 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 111 21 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: Signal state changed to stable for PC: 7C73F1FA5DFF63C8.1640594353.10511813
+voximplant.min.js:1 VIWSLR 112 21 INFO [event]: RemoteMediaRemoved, listeners: 0
+voximplant.min.js:1 VIWSLR 113 21 INFO [event]: MediaElementRemoved, listeners: 0
+voximplant.min.js:1 VIWSLR 114 21 INFO MediaRenderer: setVolume(1)
+voximplant.min.js:1 VIWSLR 115 24 INFO CallManager: handleInReinvite(), received SDP: 
 v=0
-o=- 2417758374 6 IN IP4 127.0.0.1
+o=- 3322775956 6 IN IP4 127.0.0.1
 s=-
 t=0 0
 a=group:BUNDLE 0 1
 a=extmap-allow-mixed
-a=msid-semantic: WMS QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-m=audio 56741 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
+a=msid-semantic: WMS MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+m=audio 52525 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
 c=IN IP4 95.213.228.4
 a=sendrecv
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
+a=ice-ufrag:JXZR
+a=ice-pwd:QSdJ3AFuJjQt+PbmCo3AaNrb
 a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
+a=fingerprint:sha-256 45:7C:86:BA:A2:70:D2:C2:9C:9C:05:9B:8A:A5:97:10:05:F1:9D:3A:C9:4D:05:74:E0:A1:F8:D4:9F:5A:5E:D4
 a=setup:actpass
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 42827 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4111 typ srflx raddr 192.168.1.85 rport 42827 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 56741 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 59456 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 58119 typ relay raddr 212.109.30.88 rport 1977 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 58346 typ relay raddr 212.109.30.88 rport 1978 generation 1 network-id 1 network-cost 10
+a=candidate:3385076907 1 udp 2122260223 192.168.1.85 44654 typ host generation 1 network-id 1 network-cost 10
+a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4620 typ srflx raddr 192.168.1.85 rport 44654 generation 1 network-id 1 network-cost 10
+a=candidate:642126132 1 udp 41886207 95.213.228.4 52525 typ relay raddr 212.109.30.88 rport 4620 generation 1 network-id 1 network-cost 10
+a=candidate:642126132 1 udp 41885695 95.213.228.4 54980 typ relay raddr 212.109.30.88 rport 4620 generation 1 network-id 1 network-cost 10
+a=candidate:1757801924 1 udp 25108223 95.213.228.4 50421 typ relay raddr 212.109.30.88 rport 1944 generation 1 network-id 1 network-cost 10
 a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
+a=candidate:1757801924 1 udp 25108735 95.213.228.4 59692 typ relay raddr 212.109.30.88 rport 1940 generation 1 network-id 1 network-cost 10
 a=mid:0
 a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
 a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
@@ -1235,7 +1228,7 @@ a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extension
 a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
 a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
 a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
+a=msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I ecba85c9-7fd1-487e-b766-fe31f7d12dce
 a=rtcp-mux
 a=rtpmap:111 opus/48000/2
 a=rtcp-fb:111 transport-cc
@@ -1252,18 +1245,18 @@ a=rtpmap:110 telephone-event/48000
 a=rtpmap:112 telephone-event/32000
 a=rtpmap:113 telephone-event/16000
 a=rtpmap:126 telephone-event/8000
-a=ssrc:1719043808 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1719043808 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
-a=ssrc:1719043808 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:1719043808 label:93a6819c-43e9-434f-9920-dd2c98e9bed0
+a=ssrc:1775995748 cname:R+SZKHB3rk8ztp1T
+a=ssrc:1775995748 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I ecba85c9-7fd1-487e-b766-fe31f7d12dce
+a=ssrc:1775995748 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:1775995748 label:ecba85c9-7fd1-487e-b766-fe31f7d12dce
 m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
 c=IN IP4 0.0.0.0
 a=sendrecv
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
+a=ice-ufrag:JXZR
+a=ice-pwd:QSdJ3AFuJjQt+PbmCo3AaNrb
 a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
+a=fingerprint:sha-256 45:7C:86:BA:A2:70:D2:C2:9C:9C:05:9B:8A:A5:97:10:05:F1:9D:3A:C9:4D:05:74:E0:A1:F8:D4:9F:5A:5E:D4
 a=setup:actpass
 a=mid:1
 a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
@@ -1277,10 +1270,10 @@ a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
 a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
 a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
 a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
+a=msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I 488d10b3-3d55-4789-969c-47dccd0282d9
 a=rtcp-mux
 a=rtcp-rsize
-a=ssrc-group:FID 2456097457 1102092625
+a=ssrc-group:FID 245677141 1960633248
 a=rtpmap:96 VP8/90000
 a=rtcp-fb:96 goog-remb
 a=rtcp-fb:96 transport-cc
@@ -1366,56 +1359,55 @@ a=rtpmap:120 red/90000
 a=rtpmap:119 rtx/90000
 a=fmtp:119 apt=120
 a=rtpmap:124 ulpfec/90000
-a=ssrc:2456097457 cname:FCCMlW9BxaKC7rzk
-a=ssrc:2456097457 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=ssrc:2456097457 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:2456097457 label:d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=ssrc:1102092625 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1102092625 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=ssrc:1102092625 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:1102092625 label:d93d0b74-db48-421f-9b7d-f7fd4db79b79
+a=ssrc:245677141 cname:R+SZKHB3rk8ztp1T
+a=ssrc:245677141 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I 488d10b3-3d55-4789-969c-47dccd0282d9
+a=ssrc:245677141 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:245677141 label:488d10b3-3d55-4789-969c-47dccd0282d9
+a=ssrc:1960633248 cname:R+SZKHB3rk8ztp1T
+a=ssrc:1960633248 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I 488d10b3-3d55-4789-969c-47dccd0282d9
+a=ssrc:1960633248 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:1960633248 label:488d10b3-3d55-4789-969c-47dccd0282d9
 
-voximplant.min.js:1 VIWSLR 123 55 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 124 55 INFO [event]: PendingUpdate, listeners: 2
-voximplant.min.js:1 VIWSLR 125 55 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 126 55 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to have-remote-offer for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 127 55 INFO [event]: RemoteMediaAdded, listeners: 0
-voximplant.min.js:1 VIWSLR 128 55 INFO MediaRenderer: render()
-voximplant.min.js:1 VIWSLR 129 55 INFO [event]: MediaElementCreated, listeners: 0
-voximplant.min.js:1 VIWSLR 130 55 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 131 55 INFO [event]: Updated, listeners: 2
-voximplant.min.js:1 VIWSLR 132 55 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 133 55 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to stable for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 134 56 INFO MediaRenderer: setVolume(1)
-voximplant.min.js:1 VIWSLR 135 56 INFO MediaRenderer: setVolume(1)
-voximplant.min.js:1 VIWSLR 136 57 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 137 57 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 138 67 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 139 67 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 140 70 INFO CallManager: handleInReinvite(), received SDP: 
+voximplant.min.js:1 VIWSLR 116 24 INFO [event]: StateUpdated, listeners: 0
+voximplant.min.js:1 VIWSLR 117 24 INFO [event]: PendingUpdate, listeners: 2
+voximplant.min.js:1 VIWSLR 118 24 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 119 24 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: Signal state changed to have-remote-offer for PC: 7C73F1FA5DFF63C8.1640594353.10511813
+voximplant.min.js:1 VIWSLR 120 24 INFO [event]: RemoteMediaAdded, listeners: 0
+voximplant.min.js:1 VIWSLR 121 24 INFO MediaRenderer: render()
+voximplant.min.js:1 VIWSLR 122 24 INFO [event]: MediaElementCreated, listeners: 0
+voximplant.min.js:1 VIWSLR 123 24 INFO [event]: StateUpdated, listeners: 0
+voximplant.min.js:1 VIWSLR 124 24 INFO [event]: Updated, listeners: 2
+voximplant.min.js:1 VIWSLR 125 24 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 126 24 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: Signal state changed to stable for PC: 7C73F1FA5DFF63C8.1640594353.10511813
+voximplant.min.js:1 VIWSLR 127 25 INFO MediaRenderer: setVolume(1)
+voximplant.min.js:1 VIWSLR 128 25 INFO MediaRenderer: setVolume(1)
+voximplant.min.js:1 VIWSLR 129 26 INFO [event]: RTCStatsReceived, listeners: 0
+voximplant.min.js:1 VIWSLR 130 26 INFO [event]: CallStatsReceived, listeners: 0
+voximplant.min.js:1 VIWSLR 131 31 INFO MediaRenderer: MediaRendered ID: already removing 02ffbcfb-9f20-41d9-8121-cbab50bb84ad. Ignored.
+voximplant.min.js:1 VIWSLR 132 31 INFO CallManager: handleInReinvite(), received SDP: 
 v=0
-o=- 2417758374 7 IN IP4 127.0.0.1
+o=- 3322775956 7 IN IP4 127.0.0.1
 s=-
 t=0 0
 a=group:BUNDLE 0 1
 a=extmap-allow-mixed
-a=msid-semantic: WMS QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-m=audio 56741 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
+a=msid-semantic: WMS MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+m=audio 52525 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
 c=IN IP4 95.213.228.4
 a=sendrecv
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
+a=ice-ufrag:JXZR
+a=ice-pwd:QSdJ3AFuJjQt+PbmCo3AaNrb
 a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
+a=fingerprint:sha-256 45:7C:86:BA:A2:70:D2:C2:9C:9C:05:9B:8A:A5:97:10:05:F1:9D:3A:C9:4D:05:74:E0:A1:F8:D4:9F:5A:5E:D4
 a=setup:actpass
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 42827 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4111 typ srflx raddr 192.168.1.85 rport 42827 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 56741 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 59456 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 58119 typ relay raddr 212.109.30.88 rport 1977 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 58346 typ relay raddr 212.109.30.88 rport 1978 generation 1 network-id 1 network-cost 10
+a=candidate:3385076907 1 udp 2122260223 192.168.1.85 44654 typ host generation 1 network-id 1 network-cost 10
+a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4620 typ srflx raddr 192.168.1.85 rport 44654 generation 1 network-id 1 network-cost 10
+a=candidate:642126132 1 udp 41886207 95.213.228.4 52525 typ relay raddr 212.109.30.88 rport 4620 generation 1 network-id 1 network-cost 10
+a=candidate:642126132 1 udp 41885695 95.213.228.4 54980 typ relay raddr 212.109.30.88 rport 4620 generation 1 network-id 1 network-cost 10
+a=candidate:1757801924 1 udp 25108223 95.213.228.4 50421 typ relay raddr 212.109.30.88 rport 1944 generation 1 network-id 1 network-cost 10
 a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
+a=candidate:1757801924 1 udp 25108735 95.213.228.4 59692 typ relay raddr 212.109.30.88 rport 1940 generation 1 network-id 1 network-cost 10
 a=mid:0
 a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
 a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
@@ -1423,7 +1415,7 @@ a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extension
 a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
 a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
 a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
+a=msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I ecba85c9-7fd1-487e-b766-fe31f7d12dce
 a=rtcp-mux
 a=rtpmap:111 opus/48000/2
 a=rtcp-fb:111 transport-cc
@@ -1440,18 +1432,18 @@ a=rtpmap:110 telephone-event/48000
 a=rtpmap:112 telephone-event/32000
 a=rtpmap:113 telephone-event/16000
 a=rtpmap:126 telephone-event/8000
-a=ssrc:1719043808 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1719043808 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
-a=ssrc:1719043808 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:1719043808 label:93a6819c-43e9-434f-9920-dd2c98e9bed0
+a=ssrc:1775995748 cname:R+SZKHB3rk8ztp1T
+a=ssrc:1775995748 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I ecba85c9-7fd1-487e-b766-fe31f7d12dce
+a=ssrc:1775995748 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:1775995748 label:ecba85c9-7fd1-487e-b766-fe31f7d12dce
 m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
 c=IN IP4 0.0.0.0
 a=recvonly
 a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
+a=ice-ufrag:JXZR
+a=ice-pwd:QSdJ3AFuJjQt+PbmCo3AaNrb
 a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
+a=fingerprint:sha-256 45:7C:86:BA:A2:70:D2:C2:9C:9C:05:9B:8A:A5:97:10:05:F1:9D:3A:C9:4D:05:74:E0:A1:F8:D4:9F:5A:5E:D4
 a=setup:actpass
 a=mid:1
 a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
@@ -1465,10 +1457,10 @@ a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
 a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
 a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
 a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
+a=msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I 488d10b3-3d55-4789-969c-47dccd0282d9
 a=rtcp-mux
 a=rtcp-rsize
-a=ssrc-group:FID 2456097457 1102092625
+a=ssrc-group:FID 245677141 1960633248
 a=rtpmap:96 VP8/90000
 a=rtcp-fb:96 goog-remb
 a=rtcp-fb:96 transport-cc
@@ -1554,2142 +1546,35 @@ a=rtpmap:120 red/90000
 a=rtpmap:119 rtx/90000
 a=fmtp:119 apt=120
 a=rtpmap:124 ulpfec/90000
-a=ssrc:2456097457 cname:FCCMlW9BxaKC7rzk
-a=ssrc:2456097457 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=ssrc:2456097457 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:2456097457 label:d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=ssrc:1102092625 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1102092625 msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=ssrc:1102092625 mslabel:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-a=ssrc:1102092625 label:d93d0b74-db48-421f-9b7d-f7fd4db79b79
+a=ssrc:245677141 cname:R+SZKHB3rk8ztp1T
+a=ssrc:245677141 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I 488d10b3-3d55-4789-969c-47dccd0282d9
+a=ssrc:245677141 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:245677141 label:488d10b3-3d55-4789-969c-47dccd0282d9
+a=ssrc:1960633248 cname:R+SZKHB3rk8ztp1T
+a=ssrc:1960633248 msid:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I 488d10b3-3d55-4789-969c-47dccd0282d9
+a=ssrc:1960633248 mslabel:MrRATzp9r4ymjGX8sLZO5LpHS5AITFTL132I
+a=ssrc:1960633248 label:488d10b3-3d55-4789-969c-47dccd0282d9
 
-voximplant.min.js:1 VIWSLR 141 70 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 142 70 INFO [event]: PendingUpdate, listeners: 2
-voximplant.min.js:1 VIWSLR 143 70 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 144 70 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to have-remote-offer for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 145 70 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 146 70 INFO [event]: Updated, listeners: 2
-voximplant.min.js:1 VIWSLR 147 70 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 148 70 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to stable for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 149 70 INFO [event]: RemoteMediaRemoved, listeners: 0
-voximplant.min.js:1 VIWSLR 150 70 INFO [event]: MediaElementRemoved, listeners: 0
-voximplant.min.js:1 VIWSLR 151 71 INFO MediaRenderer: setVolume(1)
-manage-mediastreams.js:17 sendVideo is called
-voximplant.min.js:1 VIWSLR 152 74 INFO Call 15FF10E97E0CB407.1640592780.9246464: sendVideo(false)
-manage-mediastreams.js:21 Resolved sendVideo(true)
-manage-mediastreams.js:17 sendVideo is called
-voximplant.min.js:1 VIWSLR 153 75 INFO Call 15FF10E97E0CB407.1640592780.9246464: sendVideo(true)
-voximplant.min.js:1 VIWSLR 154 75 INFO StreamManager: [constraints]: {"video":{},"audio":{}}
-manage-mediastreams.js:21 Resolved sendVideo(false)
-voximplant.min.js:1 VIWSLR 155 75 INFO StreamManager: Media access granted
-voximplant.min.js:1 VIWSLR 156 75 INFO [event]: MicAccessResult, listeners: 0
-voximplant.min.js:1 VIWSLR 157 75 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 158 75 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Renegotiation started
-voximplant.min.js:1 VIWSLR 159 75 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 160 75 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Renegotiation in progress. Queueing
-voximplant.min.js:1 VIWSLR 161 75 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _runReinvite(), created local SDP: 
-v=0
-o=- 3597308766549298171 8 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0 1
-a=extmap-allow-mixed
-a=msid-semantic: WMS 4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-m=audio 52462 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126 63
-c=IN IP4 95.213.228.4
-a=rtcp:9 IN IP4 0.0.0.0
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 48250 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 52462 typ relay raddr 212.109.30.88 rport 1981 generation 1 network-id 1 network-cost 10
-a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4628 typ srflx raddr 192.168.1.85 rport 48250 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 51846 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 57599 typ relay raddr 212.109.30.88 rport 1979 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 50234 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=mid:0
-a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=sendrecv
-a=msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=rtcp-mux
-a=rtpmap:111 opus/48000/2
-a=rtcp-fb:111 transport-cc
-a=fmtp:111 minptime=10;useinbandfec=1
-a=rtpmap:103 ISAC/16000
-a=rtpmap:104 ISAC/32000
-a=rtpmap:9 G722/8000
-a=rtpmap:0 PCMU/8000
-a=rtpmap:8 PCMA/8000
-a=rtpmap:106 CN/32000
-a=rtpmap:105 CN/16000
-a=rtpmap:13 CN/8000
-a=rtpmap:110 telephone-event/48000
-a=rtpmap:112 telephone-event/32000
-a=rtpmap:113 telephone-event/16000
-a=rtpmap:126 telephone-event/8000
-a=rtpmap:63 red/48000/2
-a=fmtp:63 111/111
-a=ssrc:2942899406 cname:bKL9oUgYSpjOQXne
-a=ssrc:2942899406 msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=ssrc:2942899406 mslabel:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-a=ssrc:2942899406 label:0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
-c=IN IP4 0.0.0.0
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=mid:1
-a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:13 urn:3gpp:video-orientation
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
-a=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
-a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
-a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=sendrecv
-a=msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=rtcp-mux
-a=rtcp-rsize
-a=rtpmap:96 VP8/90000
-a=rtcp-fb:96 goog-remb
-a=rtcp-fb:96 transport-cc
-a=rtcp-fb:96 ccm fir
-a=rtcp-fb:96 nack
-a=rtcp-fb:96 nack pli
-a=rtpmap:97 rtx/90000
-a=fmtp:97 apt=96
-a=rtpmap:98 VP9/90000
-a=rtcp-fb:98 goog-remb
-a=rtcp-fb:98 transport-cc
-a=rtcp-fb:98 ccm fir
-a=rtcp-fb:98 nack
-a=rtcp-fb:98 nack pli
-a=fmtp:98 profile-id=0
-a=rtpmap:99 rtx/90000
-a=fmtp:99 apt=98
-a=rtpmap:100 VP9/90000
-a=rtcp-fb:100 goog-remb
-a=rtcp-fb:100 transport-cc
-a=rtcp-fb:100 ccm fir
-a=rtcp-fb:100 nack
-a=rtcp-fb:100 nack pli
-a=fmtp:100 profile-id=2
-a=rtpmap:101 rtx/90000
-a=fmtp:101 apt=100
-a=rtpmap:123 VP9/90000
-a=rtcp-fb:123 goog-remb
-a=rtcp-fb:123 transport-cc
-a=rtcp-fb:123 ccm fir
-a=rtcp-fb:123 nack
-a=rtcp-fb:123 nack pli
-a=fmtp:123 profile-id=1
-a=rtpmap:102 H264/90000
-a=rtcp-fb:102 goog-remb
-a=rtcp-fb:102 transport-cc
-a=rtcp-fb:102 ccm fir
-a=rtcp-fb:102 nack
-a=rtcp-fb:102 nack pli
-a=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
-a=rtpmap:122 rtx/90000
-a=fmtp:122 apt=102
-a=rtpmap:127 H264/90000
-a=rtcp-fb:127 goog-remb
-a=rtcp-fb:127 transport-cc
-a=rtcp-fb:127 ccm fir
-a=rtcp-fb:127 nack
-a=rtcp-fb:127 nack pli
-a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
-a=rtpmap:121 rtx/90000
-a=fmtp:121 apt=127
-a=rtpmap:125 H264/90000
-a=rtcp-fb:125 goog-remb
-a=rtcp-fb:125 transport-cc
-a=rtcp-fb:125 ccm fir
-a=rtcp-fb:125 nack
-a=rtcp-fb:125 nack pli
-a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
-a=rtpmap:107 rtx/90000
-a=fmtp:107 apt=125
-a=rtpmap:108 H264/90000
-a=rtcp-fb:108 goog-remb
-a=rtcp-fb:108 transport-cc
-a=rtcp-fb:108 ccm fir
-a=rtcp-fb:108 nack
-a=rtcp-fb:108 nack pli
-a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
-a=rtpmap:109 rtx/90000
-a=fmtp:109 apt=108
-a=rtpmap:35 AV1/90000
-a=rtcp-fb:35 goog-remb
-a=rtcp-fb:35 transport-cc
-a=rtcp-fb:35 ccm fir
-a=rtcp-fb:35 nack
-a=rtcp-fb:35 nack pli
-a=rtpmap:36 rtx/90000
-a=fmtp:36 apt=35
-a=rtpmap:37 flexfec-03/90000
-a=rtcp-fb:37 goog-remb
-a=rtcp-fb:37 transport-cc
-a=fmtp:37 repair-window=10000000
-a=rtpmap:120 red/90000
-a=rtpmap:119 rtx/90000
-a=fmtp:119 apt=120
-a=rtpmap:124 ulpfec/90000
-a=ssrc-group:FID 3333787332 1505764096
-a=ssrc:3333787332 cname:bKL9oUgYSpjOQXne
-a=ssrc:3333787332 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:3333787332 mslabel:-
-a=ssrc:3333787332 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 cname:bKL9oUgYSpjOQXne
-a=ssrc:1505764096 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 mslabel:-
-a=ssrc:1505764096 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-
-voximplant.min.js:1 VIWSLR 162 75 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: No sdp codecs transformer registered
-voximplant.min.js:1 VIWSLR 163 76 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _handleReinvite(), set local SDP: 
-v=0
-o=- 3597308766549298171 8 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0 1
-a=extmap-allow-mixed
-a=msid-semantic: WMS 4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-m=audio 52462 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
-c=IN IP4 95.213.228.4
-a=sendrecv
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 48250 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 52462 typ relay raddr 212.109.30.88 rport 1981 generation 1 network-id 1 network-cost 10
-a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4628 typ srflx raddr 192.168.1.85 rport 48250 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 51846 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 57599 typ relay raddr 212.109.30.88 rport 1979 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 50234 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=mid:0
-a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=rtcp-mux
-a=rtpmap:111 opus/48000/2
-a=rtcp-fb:111 transport-cc
-a=fmtp:111 minptime=10;useinbandfec=1
-a=rtpmap:103 ISAC/16000
-a=rtpmap:104 ISAC/32000
-a=rtpmap:9 G722/8000
-a=rtpmap:0 PCMU/8000
-a=rtpmap:8 PCMA/8000
-a=rtpmap:106 CN/32000
-a=rtpmap:105 CN/16000
-a=rtpmap:13 CN/8000
-a=rtpmap:110 telephone-event/48000
-a=rtpmap:112 telephone-event/32000
-a=rtpmap:113 telephone-event/16000
-a=rtpmap:126 telephone-event/8000
-a=ssrc:2942899406 cname:bKL9oUgYSpjOQXne
-a=ssrc:2942899406 msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=ssrc:2942899406 mslabel:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-a=ssrc:2942899406 label:0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
-c=IN IP4 0.0.0.0
-a=sendrecv
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=mid:1
-a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:13 urn:3gpp:video-orientation
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
-a=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
-a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
-a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=rtcp-mux
-a=rtcp-rsize
-a=ssrc-group:FID 3333787332 1505764096
-a=rtpmap:96 VP8/90000
-a=rtcp-fb:96 goog-remb
-a=rtcp-fb:96 transport-cc
-a=rtcp-fb:96 ccm fir
-a=rtcp-fb:96 nack
-a=rtcp-fb:96 nack pli
-a=rtpmap:97 rtx/90000
-a=fmtp:97 apt=96
-a=rtpmap:98 VP9/90000
-a=rtcp-fb:98 goog-remb
-a=rtcp-fb:98 transport-cc
-a=rtcp-fb:98 ccm fir
-a=rtcp-fb:98 nack
-a=rtcp-fb:98 nack pli
-a=fmtp:98 profile-id=0
-a=rtpmap:99 rtx/90000
-a=fmtp:99 apt=98
-a=rtpmap:100 VP9/90000
-a=rtcp-fb:100 goog-remb
-a=rtcp-fb:100 transport-cc
-a=rtcp-fb:100 ccm fir
-a=rtcp-fb:100 nack
-a=rtcp-fb:100 nack pli
-a=fmtp:100 profile-id=2
-a=rtpmap:101 rtx/90000
-a=fmtp:101 apt=100
-a=rtpmap:123 VP9/90000
-a=rtcp-fb:123 goog-remb
-a=rtcp-fb:123 transport-cc
-a=rtcp-fb:123 ccm fir
-a=rtcp-fb:123 nack
-a=rtcp-fb:123 nack pli
-a=fmtp:123 profile-id=1
-a=rtpmap:102 H264/90000
-a=rtcp-fb:102 goog-remb
-a=rtcp-fb:102 transport-cc
-a=rtcp-fb:102 ccm fir
-a=rtcp-fb:102 nack
-a=rtcp-fb:102 nack pli
-a=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
-a=rtpmap:122 rtx/90000
-a=fmtp:122 apt=102
-a=rtpmap:127 H264/90000
-a=rtcp-fb:127 goog-remb
-a=rtcp-fb:127 transport-cc
-a=rtcp-fb:127 ccm fir
-a=rtcp-fb:127 nack
-a=rtcp-fb:127 nack pli
-a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
-a=rtpmap:121 rtx/90000
-a=fmtp:121 apt=127
-a=rtpmap:125 H264/90000
-a=rtcp-fb:125 goog-remb
-a=rtcp-fb:125 transport-cc
-a=rtcp-fb:125 ccm fir
-a=rtcp-fb:125 nack
-a=rtcp-fb:125 nack pli
-a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
-a=rtpmap:107 rtx/90000
-a=fmtp:107 apt=125
-a=rtpmap:108 H264/90000
-a=rtcp-fb:108 goog-remb
-a=rtcp-fb:108 transport-cc
-a=rtcp-fb:108 ccm fir
-a=rtcp-fb:108 nack
-a=rtcp-fb:108 nack pli
-a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
-a=rtpmap:109 rtx/90000
-a=fmtp:109 apt=108
-a=rtpmap:35 AV1/90000
-a=rtcp-fb:35 goog-remb
-a=rtcp-fb:35 transport-cc
-a=rtcp-fb:35 ccm fir
-a=rtcp-fb:35 nack
-a=rtcp-fb:35 nack pli
-a=rtpmap:36 rtx/90000
-a=fmtp:36 apt=35
-a=rtpmap:37 flexfec-03/90000
-a=rtcp-fb:37 goog-remb
-a=rtcp-fb:37 transport-cc
-a=fmtp:37 repair-window=10000000
-a=rtpmap:120 red/90000
-a=rtpmap:119 rtx/90000
-a=fmtp:119 apt=120
-a=rtpmap:124 ulpfec/90000
-a=ssrc:3333787332 cname:bKL9oUgYSpjOQXne
-a=ssrc:3333787332 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:3333787332 mslabel:-
-a=ssrc:3333787332 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 cname:bKL9oUgYSpjOQXne
-a=ssrc:1505764096 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 mslabel:-
-a=ssrc:1505764096 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-
-voximplant.min.js:1 VIWSLR 164 76 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 165 76 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 166 76 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to have-local-offer for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 167 76 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _handleReinvite(), set remote SDP: 
-v=0
-o=- 2417758374 8 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0 1
-a=extmap-allow-mixed
-a=msid-semantic: WMS QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-m=audio 56741 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110
-c=IN IP4 95.213.228.4
-a=rtcp:9 IN IP4 0.0.0.0
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 42827 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4111 typ srflx raddr 192.168.1.85 rport 42827 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 56741 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 59456 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 58119 typ relay raddr 212.109.30.88 rport 1977 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 58346 typ relay raddr 212.109.30.88 rport 1978 generation 1 network-id 1 network-cost 10
-a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
-a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
-a=setup:passive
-a=mid:0
-a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=sendrecv
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
-a=rtcp-mux
-a=rtpmap:111 opus/48000/2
-a=rtcp-fb:111 transport-cc
-a=fmtp:111 minptime=10;useinbandfec=1
-a=rtpmap:103 ISAC/16000
-a=rtpmap:104 ISAC/32000
-a=rtpmap:9 G722/8000
-a=rtpmap:0 PCMU/8000
-a=rtpmap:8 PCMA/8000
-a=rtpmap:106 CN/32000
-a=rtpmap:105 CN/16000
-a=rtpmap:13 CN/8000
-a=rtpmap:110 telephone-event/48000
-a=ssrc:1719043808 cname:FCCMlW9BxaKC7rzk
-m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
-c=IN IP4 0.0.0.0
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
-a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
-a=setup:passive
-a=mid:1
-a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:13 urn:3gpp:video-orientation
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
-a=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
-a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
-a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=recvonly
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=rtcp-mux
-a=rtcp-rsize
-a=rtpmap:96 VP8/90000
-a=rtcp-fb:96 goog-remb
-a=rtcp-fb:96 transport-cc
-a=rtcp-fb:96 ccm fir
-a=rtcp-fb:96 nack
-a=rtcp-fb:96 nack pli
-a=rtpmap:97 rtx/90000
-a=fmtp:97 apt=96
-a=rtpmap:98 VP9/90000
-a=rtcp-fb:98 goog-remb
-a=rtcp-fb:98 transport-cc
-a=rtcp-fb:98 ccm fir
-a=rtcp-fb:98 nack
-a=rtcp-fb:98 nack pli
-a=fmtp:98 profile-id=0
-a=rtpmap:99 rtx/90000
-a=fmtp:99 apt=98
-a=rtpmap:100 VP9/90000
-a=rtcp-fb:100 goog-remb
-a=rtcp-fb:100 transport-cc
-a=rtcp-fb:100 ccm fir
-a=rtcp-fb:100 nack
-a=rtcp-fb:100 nack pli
-a=fmtp:100 profile-id=2
-a=rtpmap:101 rtx/90000
-a=fmtp:101 apt=100
-a=rtpmap:123 VP9/90000
-a=rtcp-fb:123 goog-remb
-a=rtcp-fb:123 transport-cc
-a=rtcp-fb:123 ccm fir
-a=rtcp-fb:123 nack
-a=rtcp-fb:123 nack pli
-a=fmtp:123 profile-id=1
-a=rtpmap:102 H264/90000
-a=rtcp-fb:102 goog-remb
-a=rtcp-fb:102 transport-cc
-a=rtcp-fb:102 ccm fir
-a=rtcp-fb:102 nack
-a=rtcp-fb:102 nack pli
-a=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
-a=rtpmap:122 rtx/90000
-a=fmtp:122 apt=102
-a=rtpmap:127 H264/90000
-a=rtcp-fb:127 goog-remb
-a=rtcp-fb:127 transport-cc
-a=rtcp-fb:127 ccm fir
-a=rtcp-fb:127 nack
-a=rtcp-fb:127 nack pli
-a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
-a=rtpmap:121 rtx/90000
-a=fmtp:121 apt=127
-a=rtpmap:125 H264/90000
-a=rtcp-fb:125 goog-remb
-a=rtcp-fb:125 transport-cc
-a=rtcp-fb:125 ccm fir
-a=rtcp-fb:125 nack
-a=rtcp-fb:125 nack pli
-a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
-a=rtpmap:107 rtx/90000
-a=fmtp:107 apt=125
-a=rtpmap:108 H264/90000
-a=rtcp-fb:108 goog-remb
-a=rtcp-fb:108 transport-cc
-a=rtcp-fb:108 ccm fir
-a=rtcp-fb:108 nack
-a=rtcp-fb:108 nack pli
-a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
-a=rtpmap:109 rtx/90000
-a=fmtp:109 apt=108
-a=rtpmap:35 AV1/90000
-a=rtcp-fb:35 goog-remb
-a=rtcp-fb:35 transport-cc
-a=rtcp-fb:35 ccm fir
-a=rtcp-fb:35 nack
-a=rtcp-fb:35 nack pli
-a=rtpmap:36 rtx/90000
-a=fmtp:36 apt=35
-a=rtpmap:37 flexfec-03/90000
-a=rtcp-fb:37 goog-remb
-a=rtcp-fb:37 transport-cc
-a=fmtp:37 repair-window=10000000
-a=rtpmap:120 red/90000
-a=rtpmap:119 rtx/90000
-a=fmtp:119 apt=120
-a=rtpmap:124 ulpfec/90000
-a=ssrc-group:FID 2456097457 1102092625
-a=ssrc:2456097457 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1102092625 cname:FCCMlW9BxaKC7rzk
-
-voximplant.min.js:1 VIWSLR 168 76 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 169 76 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 170 76 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to stable for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 171 76 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 172 76 INFO [event]: Updated, listeners: 2
-voximplant.min.js:1 VIWSLR 173 78 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 174 78 INFO [event]: CallStatsReceived, listeners: 0
-manage-mediastreams.js:17 sendVideo is called
-voximplant.min.js:1 VIWSLR 175 81 INFO Call 15FF10E97E0CB407.1640592780.9246464: sendVideo(false)
-manage-mediastreams.js:21 Resolved sendVideo(true)
-voximplant.min.js:1 VIWSLR 176 81 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 177 81 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Renegotiation started
-voximplant.min.js:1 VIWSLR 178 81 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 179 81 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Renegotiation in progress. Queueing
-voximplant.min.js:1 VIWSLR 180 81 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _runReinvite(), created local SDP: 
-v=0
-o=- 3597308766549298171 9 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0 1
-a=extmap-allow-mixed
-a=msid-semantic: WMS 4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-m=audio 52462 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126 63
-c=IN IP4 95.213.228.4
-a=rtcp:9 IN IP4 0.0.0.0
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 48250 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 52462 typ relay raddr 212.109.30.88 rport 1981 generation 1 network-id 1 network-cost 10
-a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4628 typ srflx raddr 192.168.1.85 rport 48250 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 51846 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 57599 typ relay raddr 212.109.30.88 rport 1979 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 50234 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=mid:0
-a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=sendrecv
-a=msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=rtcp-mux
-a=rtpmap:111 opus/48000/2
-a=rtcp-fb:111 transport-cc
-a=fmtp:111 minptime=10;useinbandfec=1
-a=rtpmap:103 ISAC/16000
-a=rtpmap:104 ISAC/32000
-a=rtpmap:9 G722/8000
-a=rtpmap:0 PCMU/8000
-a=rtpmap:8 PCMA/8000
-a=rtpmap:106 CN/32000
-a=rtpmap:105 CN/16000
-a=rtpmap:13 CN/8000
-a=rtpmap:110 telephone-event/48000
-a=rtpmap:112 telephone-event/32000
-a=rtpmap:113 telephone-event/16000
-a=rtpmap:126 telephone-event/8000
-a=rtpmap:63 red/48000/2
-a=fmtp:63 111/111
-a=ssrc:2942899406 cname:bKL9oUgYSpjOQXne
-a=ssrc:2942899406 msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=ssrc:2942899406 mslabel:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-a=ssrc:2942899406 label:0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
-c=IN IP4 0.0.0.0
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=mid:1
-a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:13 urn:3gpp:video-orientation
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
-a=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
-a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
-a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=recvonly
-a=msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=rtcp-mux
-a=rtcp-rsize
-a=rtpmap:96 VP8/90000
-a=rtcp-fb:96 goog-remb
-a=rtcp-fb:96 transport-cc
-a=rtcp-fb:96 ccm fir
-a=rtcp-fb:96 nack
-a=rtcp-fb:96 nack pli
-a=rtpmap:97 rtx/90000
-a=fmtp:97 apt=96
-a=rtpmap:98 VP9/90000
-a=rtcp-fb:98 goog-remb
-a=rtcp-fb:98 transport-cc
-a=rtcp-fb:98 ccm fir
-a=rtcp-fb:98 nack
-a=rtcp-fb:98 nack pli
-a=fmtp:98 profile-id=0
-a=rtpmap:99 rtx/90000
-a=fmtp:99 apt=98
-a=rtpmap:100 VP9/90000
-a=rtcp-fb:100 goog-remb
-a=rtcp-fb:100 transport-cc
-a=rtcp-fb:100 ccm fir
-a=rtcp-fb:100 nack
-a=rtcp-fb:100 nack pli
-a=fmtp:100 profile-id=2
-a=rtpmap:101 rtx/90000
-a=fmtp:101 apt=100
-a=rtpmap:123 VP9/90000
-a=rtcp-fb:123 goog-remb
-a=rtcp-fb:123 transport-cc
-a=rtcp-fb:123 ccm fir
-a=rtcp-fb:123 nack
-a=rtcp-fb:123 nack pli
-a=fmtp:123 profile-id=1
-a=rtpmap:102 H264/90000
-a=rtcp-fb:102 goog-remb
-a=rtcp-fb:102 transport-cc
-a=rtcp-fb:102 ccm fir
-a=rtcp-fb:102 nack
-a=rtcp-fb:102 nack pli
-a=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
-a=rtpmap:122 rtx/90000
-a=fmtp:122 apt=102
-a=rtpmap:127 H264/90000
-a=rtcp-fb:127 goog-remb
-a=rtcp-fb:127 transport-cc
-a=rtcp-fb:127 ccm fir
-a=rtcp-fb:127 nack
-a=rtcp-fb:127 nack pli
-a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
-a=rtpmap:121 rtx/90000
-a=fmtp:121 apt=127
-a=rtpmap:125 H264/90000
-a=rtcp-fb:125 goog-remb
-a=rtcp-fb:125 transport-cc
-a=rtcp-fb:125 ccm fir
-a=rtcp-fb:125 nack
-a=rtcp-fb:125 nack pli
-a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
-a=rtpmap:107 rtx/90000
-a=fmtp:107 apt=125
-a=rtpmap:108 H264/90000
-a=rtcp-fb:108 goog-remb
-a=rtcp-fb:108 transport-cc
-a=rtcp-fb:108 ccm fir
-a=rtcp-fb:108 nack
-a=rtcp-fb:108 nack pli
-a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
-a=rtpmap:109 rtx/90000
-a=fmtp:109 apt=108
-a=rtpmap:35 AV1/90000
-a=rtcp-fb:35 goog-remb
-a=rtcp-fb:35 transport-cc
-a=rtcp-fb:35 ccm fir
-a=rtcp-fb:35 nack
-a=rtcp-fb:35 nack pli
-a=rtpmap:36 rtx/90000
-a=fmtp:36 apt=35
-a=rtpmap:37 flexfec-03/90000
-a=rtcp-fb:37 goog-remb
-a=rtcp-fb:37 transport-cc
-a=fmtp:37 repair-window=10000000
-a=rtpmap:120 red/90000
-a=rtpmap:119 rtx/90000
-a=fmtp:119 apt=120
-a=rtpmap:124 ulpfec/90000
-a=ssrc-group:FID 3333787332 1505764096
-a=ssrc:3333787332 cname:bKL9oUgYSpjOQXne
-a=ssrc:3333787332 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:3333787332 mslabel:-
-a=ssrc:3333787332 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 cname:bKL9oUgYSpjOQXne
-a=ssrc:1505764096 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 mslabel:-
-a=ssrc:1505764096 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-
-voximplant.min.js:1 VIWSLR 181 81 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: No sdp codecs transformer registered
-voximplant.min.js:1 VIWSLR 182 81 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _handleReinvite(), set local SDP: 
-v=0
-o=- 3597308766549298171 9 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0 1
-a=extmap-allow-mixed
-a=msid-semantic: WMS 4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-m=audio 52462 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
-c=IN IP4 95.213.228.4
-a=sendrecv
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 48250 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 52462 typ relay raddr 212.109.30.88 rport 1981 generation 1 network-id 1 network-cost 10
-a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4628 typ srflx raddr 192.168.1.85 rport 48250 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 51846 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 57599 typ relay raddr 212.109.30.88 rport 1979 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 50234 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=mid:0
-a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=rtcp-mux
-a=rtpmap:111 opus/48000/2
-a=rtcp-fb:111 transport-cc
-a=fmtp:111 minptime=10;useinbandfec=1
-a=rtpmap:103 ISAC/16000
-a=rtpmap:104 ISAC/32000
-a=rtpmap:9 G722/8000
-a=rtpmap:0 PCMU/8000
-a=rtpmap:8 PCMA/8000
-a=rtpmap:106 CN/32000
-a=rtpmap:105 CN/16000
-a=rtpmap:13 CN/8000
-a=rtpmap:110 telephone-event/48000
-a=rtpmap:112 telephone-event/32000
-a=rtpmap:113 telephone-event/16000
-a=rtpmap:126 telephone-event/8000
-a=ssrc:2942899406 cname:bKL9oUgYSpjOQXne
-a=ssrc:2942899406 msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=ssrc:2942899406 mslabel:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-a=ssrc:2942899406 label:0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
-c=IN IP4 0.0.0.0
-a=recvonly
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=mid:1
-a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:13 urn:3gpp:video-orientation
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
-a=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
-a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
-a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=rtcp-mux
-a=rtcp-rsize
-a=ssrc-group:FID 3333787332 1505764096
-a=rtpmap:96 VP8/90000
-a=rtcp-fb:96 goog-remb
-a=rtcp-fb:96 transport-cc
-a=rtcp-fb:96 ccm fir
-a=rtcp-fb:96 nack
-a=rtcp-fb:96 nack pli
-a=rtpmap:97 rtx/90000
-a=fmtp:97 apt=96
-a=rtpmap:98 VP9/90000
-a=rtcp-fb:98 goog-remb
-a=rtcp-fb:98 transport-cc
-a=rtcp-fb:98 ccm fir
-a=rtcp-fb:98 nack
-a=rtcp-fb:98 nack pli
-a=fmtp:98 profile-id=0
-a=rtpmap:99 rtx/90000
-a=fmtp:99 apt=98
-a=rtpmap:100 VP9/90000
-a=rtcp-fb:100 goog-remb
-a=rtcp-fb:100 transport-cc
-a=rtcp-fb:100 ccm fir
-a=rtcp-fb:100 nack
-a=rtcp-fb:100 nack pli
-a=fmtp:100 profile-id=2
-a=rtpmap:101 rtx/90000
-a=fmtp:101 apt=100
-a=rtpmap:123 VP9/90000
-a=rtcp-fb:123 goog-remb
-a=rtcp-fb:123 transport-cc
-a=rtcp-fb:123 ccm fir
-a=rtcp-fb:123 nack
-a=rtcp-fb:123 nack pli
-a=fmtp:123 profile-id=1
-a=rtpmap:102 H264/90000
-a=rtcp-fb:102 goog-remb
-a=rtcp-fb:102 transport-cc
-a=rtcp-fb:102 ccm fir
-a=rtcp-fb:102 nack
-a=rtcp-fb:102 nack pli
-a=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
-a=rtpmap:122 rtx/90000
-a=fmtp:122 apt=102
-a=rtpmap:127 H264/90000
-a=rtcp-fb:127 goog-remb
-a=rtcp-fb:127 transport-cc
-a=rtcp-fb:127 ccm fir
-a=rtcp-fb:127 nack
-a=rtcp-fb:127 nack pli
-a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
-a=rtpmap:121 rtx/90000
-a=fmtp:121 apt=127
-a=rtpmap:125 H264/90000
-a=rtcp-fb:125 goog-remb
-a=rtcp-fb:125 transport-cc
-a=rtcp-fb:125 ccm fir
-a=rtcp-fb:125 nack
-a=rtcp-fb:125 nack pli
-a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
-a=rtpmap:107 rtx/90000
-a=fmtp:107 apt=125
-a=rtpmap:108 H264/90000
-a=rtcp-fb:108 goog-remb
-a=rtcp-fb:108 transport-cc
-a=rtcp-fb:108 ccm fir
-a=rtcp-fb:108 nack
-a=rtcp-fb:108 nack pli
-a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
-a=rtpmap:109 rtx/90000
-a=fmtp:109 apt=108
-a=rtpmap:35 AV1/90000
-a=rtcp-fb:35 goog-remb
-a=rtcp-fb:35 transport-cc
-a=rtcp-fb:35 ccm fir
-a=rtcp-fb:35 nack
-a=rtcp-fb:35 nack pli
-a=rtpmap:36 rtx/90000
-a=fmtp:36 apt=35
-a=rtpmap:37 flexfec-03/90000
-a=rtcp-fb:37 goog-remb
-a=rtcp-fb:37 transport-cc
-a=fmtp:37 repair-window=10000000
-a=rtpmap:120 red/90000
-a=rtpmap:119 rtx/90000
-a=fmtp:119 apt=120
-a=rtpmap:124 ulpfec/90000
-a=ssrc:3333787332 cname:bKL9oUgYSpjOQXne
-a=ssrc:3333787332 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:3333787332 mslabel:-
-a=ssrc:3333787332 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 cname:bKL9oUgYSpjOQXne
-a=ssrc:1505764096 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 mslabel:-
-a=ssrc:1505764096 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-
-voximplant.min.js:1 VIWSLR 183 81 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 184 81 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 185 81 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to have-local-offer for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 186 81 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _handleReinvite(), set remote SDP: 
-v=0
-o=- 2417758374 9 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0 1
-a=extmap-allow-mixed
-a=msid-semantic: WMS QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-m=audio 56741 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110
-c=IN IP4 95.213.228.4
-a=rtcp:9 IN IP4 0.0.0.0
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 42827 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4111 typ srflx raddr 192.168.1.85 rport 42827 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 56741 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 59456 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 58119 typ relay raddr 212.109.30.88 rport 1977 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 58346 typ relay raddr 212.109.30.88 rport 1978 generation 1 network-id 1 network-cost 10
-a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
-a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
-a=setup:passive
-a=mid:0
-a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=sendrecv
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
-a=rtcp-mux
-a=rtpmap:111 opus/48000/2
-a=rtcp-fb:111 transport-cc
-a=fmtp:111 minptime=10;useinbandfec=1
-a=rtpmap:103 ISAC/16000
-a=rtpmap:104 ISAC/32000
-a=rtpmap:9 G722/8000
-a=rtpmap:0 PCMU/8000
-a=rtpmap:8 PCMA/8000
-a=rtpmap:106 CN/32000
-a=rtpmap:105 CN/16000
-a=rtpmap:13 CN/8000
-a=rtpmap:110 telephone-event/48000
-a=ssrc:1719043808 cname:FCCMlW9BxaKC7rzk
-m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
-c=IN IP4 0.0.0.0
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
-a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
-a=setup:passive
-a=mid:1
-a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:13 urn:3gpp:video-orientation
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
-a=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
-a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
-a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=inactive
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=rtcp-mux
-a=rtcp-rsize
-a=rtpmap:96 VP8/90000
-a=rtcp-fb:96 goog-remb
-a=rtcp-fb:96 transport-cc
-a=rtcp-fb:96 ccm fir
-a=rtcp-fb:96 nack
-a=rtcp-fb:96 nack pli
-a=rtpmap:97 rtx/90000
-a=fmtp:97 apt=96
-a=rtpmap:98 VP9/90000
-a=rtcp-fb:98 goog-remb
-a=rtcp-fb:98 transport-cc
-a=rtcp-fb:98 ccm fir
-a=rtcp-fb:98 nack
-a=rtcp-fb:98 nack pli
-a=fmtp:98 profile-id=0
-a=rtpmap:99 rtx/90000
-a=fmtp:99 apt=98
-a=rtpmap:100 VP9/90000
-a=rtcp-fb:100 goog-remb
-a=rtcp-fb:100 transport-cc
-a=rtcp-fb:100 ccm fir
-a=rtcp-fb:100 nack
-a=rtcp-fb:100 nack pli
-a=fmtp:100 profile-id=2
-a=rtpmap:101 rtx/90000
-a=fmtp:101 apt=100
-a=rtpmap:123 VP9/90000
-a=rtcp-fb:123 goog-remb
-a=rtcp-fb:123 transport-cc
-a=rtcp-fb:123 ccm fir
-a=rtcp-fb:123 nack
-a=rtcp-fb:123 nack pli
-a=fmtp:123 profile-id=1
-a=rtpmap:102 H264/90000
-a=rtcp-fb:102 goog-remb
-a=rtcp-fb:102 transport-cc
-a=rtcp-fb:102 ccm fir
-a=rtcp-fb:102 nack
-a=rtcp-fb:102 nack pli
-a=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
-a=rtpmap:122 rtx/90000
-a=fmtp:122 apt=102
-a=rtpmap:127 H264/90000
-a=rtcp-fb:127 goog-remb
-a=rtcp-fb:127 transport-cc
-a=rtcp-fb:127 ccm fir
-a=rtcp-fb:127 nack
-a=rtcp-fb:127 nack pli
-a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
-a=rtpmap:121 rtx/90000
-a=fmtp:121 apt=127
-a=rtpmap:125 H264/90000
-a=rtcp-fb:125 goog-remb
-a=rtcp-fb:125 transport-cc
-a=rtcp-fb:125 ccm fir
-a=rtcp-fb:125 nack
-a=rtcp-fb:125 nack pli
-a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
-a=rtpmap:107 rtx/90000
-a=fmtp:107 apt=125
-a=rtpmap:108 H264/90000
-a=rtcp-fb:108 goog-remb
-a=rtcp-fb:108 transport-cc
-a=rtcp-fb:108 ccm fir
-a=rtcp-fb:108 nack
-a=rtcp-fb:108 nack pli
-a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
-a=rtpmap:109 rtx/90000
-a=fmtp:109 apt=108
-a=rtpmap:35 AV1/90000
-a=rtcp-fb:35 goog-remb
-a=rtcp-fb:35 transport-cc
-a=rtcp-fb:35 ccm fir
-a=rtcp-fb:35 nack
-a=rtcp-fb:35 nack pli
-a=rtpmap:36 rtx/90000
-a=fmtp:36 apt=35
-a=rtpmap:37 flexfec-03/90000
-a=rtcp-fb:37 goog-remb
-a=rtcp-fb:37 transport-cc
-a=fmtp:37 repair-window=10000000
-a=rtpmap:120 red/90000
-a=rtpmap:119 rtx/90000
-a=fmtp:119 apt=120
-a=rtpmap:124 ulpfec/90000
-a=ssrc-group:FID 2456097457 1102092625
-a=ssrc:2456097457 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1102092625 cname:FCCMlW9BxaKC7rzk
-
-voximplant.min.js:1 VIWSLR 187 81 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 188 81 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 189 81 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to stable for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 190 81 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 191 81 INFO [event]: Updated, listeners: 2
-voximplant.min.js:1 VIWSLR 192 81 INFO MediaRenderer: MediaRendered ID: already removing 47424ab8-006d-45fc-aef2-c334210d6a30. Ignored.
-manage-mediastreams.js:17 sendVideo is called
-voximplant.min.js:1 VIWSLR 193 85 INFO Call 15FF10E97E0CB407.1640592780.9246464: sendVideo(true)
-voximplant.min.js:1 VIWSLR 194 85 INFO StreamManager: [constraints]: {"video":{},"audio":{}}
-manage-mediastreams.js:21 Resolved sendVideo(false)
-voximplant.min.js:1 VIWSLR 195 86 INFO StreamManager: Media access granted
-voximplant.min.js:1 VIWSLR 196 86 INFO [event]: MicAccessResult, listeners: 0
-voximplant.min.js:1 VIWSLR 197 86 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 198 86 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Renegotiation started
-voximplant.min.js:1 VIWSLR 199 86 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 200 86 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Renegotiation in progress. Queueing
-voximplant.min.js:1 VIWSLR 201 86 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _runReinvite(), created local SDP: 
-v=0
-o=- 3597308766549298171 10 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0 1
-a=extmap-allow-mixed
-a=msid-semantic: WMS 4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-m=audio 52462 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126 63
-c=IN IP4 95.213.228.4
-a=rtcp:9 IN IP4 0.0.0.0
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 48250 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 52462 typ relay raddr 212.109.30.88 rport 1981 generation 1 network-id 1 network-cost 10
-a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4628 typ srflx raddr 192.168.1.85 rport 48250 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 51846 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 57599 typ relay raddr 212.109.30.88 rport 1979 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 50234 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=mid:0
-a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=sendrecv
-a=msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=rtcp-mux
-a=rtpmap:111 opus/48000/2
-a=rtcp-fb:111 transport-cc
-a=fmtp:111 minptime=10;useinbandfec=1
-a=rtpmap:103 ISAC/16000
-a=rtpmap:104 ISAC/32000
-a=rtpmap:9 G722/8000
-a=rtpmap:0 PCMU/8000
-a=rtpmap:8 PCMA/8000
-a=rtpmap:106 CN/32000
-a=rtpmap:105 CN/16000
-a=rtpmap:13 CN/8000
-a=rtpmap:110 telephone-event/48000
-a=rtpmap:112 telephone-event/32000
-a=rtpmap:113 telephone-event/16000
-a=rtpmap:126 telephone-event/8000
-a=rtpmap:63 red/48000/2
-a=fmtp:63 111/111
-a=ssrc:2942899406 cname:bKL9oUgYSpjOQXne
-a=ssrc:2942899406 msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=ssrc:2942899406 mslabel:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-a=ssrc:2942899406 label:0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
-c=IN IP4 0.0.0.0
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=mid:1
-a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:13 urn:3gpp:video-orientation
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
-a=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
-a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
-a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=sendrecv
-a=msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=rtcp-mux
-a=rtcp-rsize
-a=rtpmap:96 VP8/90000
-a=rtcp-fb:96 goog-remb
-a=rtcp-fb:96 transport-cc
-a=rtcp-fb:96 ccm fir
-a=rtcp-fb:96 nack
-a=rtcp-fb:96 nack pli
-a=rtpmap:97 rtx/90000
-a=fmtp:97 apt=96
-a=rtpmap:98 VP9/90000
-a=rtcp-fb:98 goog-remb
-a=rtcp-fb:98 transport-cc
-a=rtcp-fb:98 ccm fir
-a=rtcp-fb:98 nack
-a=rtcp-fb:98 nack pli
-a=fmtp:98 profile-id=0
-a=rtpmap:99 rtx/90000
-a=fmtp:99 apt=98
-a=rtpmap:100 VP9/90000
-a=rtcp-fb:100 goog-remb
-a=rtcp-fb:100 transport-cc
-a=rtcp-fb:100 ccm fir
-a=rtcp-fb:100 nack
-a=rtcp-fb:100 nack pli
-a=fmtp:100 profile-id=2
-a=rtpmap:101 rtx/90000
-a=fmtp:101 apt=100
-a=rtpmap:123 VP9/90000
-a=rtcp-fb:123 goog-remb
-a=rtcp-fb:123 transport-cc
-a=rtcp-fb:123 ccm fir
-a=rtcp-fb:123 nack
-a=rtcp-fb:123 nack pli
-a=fmtp:123 profile-id=1
-a=rtpmap:102 H264/90000
-a=rtcp-fb:102 goog-remb
-a=rtcp-fb:102 transport-cc
-a=rtcp-fb:102 ccm fir
-a=rtcp-fb:102 nack
-a=rtcp-fb:102 nack pli
-a=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
-a=rtpmap:122 rtx/90000
-a=fmtp:122 apt=102
-a=rtpmap:127 H264/90000
-a=rtcp-fb:127 goog-remb
-a=rtcp-fb:127 transport-cc
-a=rtcp-fb:127 ccm fir
-a=rtcp-fb:127 nack
-a=rtcp-fb:127 nack pli
-a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
-a=rtpmap:121 rtx/90000
-a=fmtp:121 apt=127
-a=rtpmap:125 H264/90000
-a=rtcp-fb:125 goog-remb
-a=rtcp-fb:125 transport-cc
-a=rtcp-fb:125 ccm fir
-a=rtcp-fb:125 nack
-a=rtcp-fb:125 nack pli
-a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
-a=rtpmap:107 rtx/90000
-a=fmtp:107 apt=125
-a=rtpmap:108 H264/90000
-a=rtcp-fb:108 goog-remb
-a=rtcp-fb:108 transport-cc
-a=rtcp-fb:108 ccm fir
-a=rtcp-fb:108 nack
-a=rtcp-fb:108 nack pli
-a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
-a=rtpmap:109 rtx/90000
-a=fmtp:109 apt=108
-a=rtpmap:35 AV1/90000
-a=rtcp-fb:35 goog-remb
-a=rtcp-fb:35 transport-cc
-a=rtcp-fb:35 ccm fir
-a=rtcp-fb:35 nack
-a=rtcp-fb:35 nack pli
-a=rtpmap:36 rtx/90000
-a=fmtp:36 apt=35
-a=rtpmap:37 flexfec-03/90000
-a=rtcp-fb:37 goog-remb
-a=rtcp-fb:37 transport-cc
-a=fmtp:37 repair-window=10000000
-a=rtpmap:120 red/90000
-a=rtpmap:119 rtx/90000
-a=fmtp:119 apt=120
-a=rtpmap:124 ulpfec/90000
-a=ssrc-group:FID 3333787332 1505764096
-a=ssrc:3333787332 cname:bKL9oUgYSpjOQXne
-a=ssrc:3333787332 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:3333787332 mslabel:-
-a=ssrc:3333787332 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 cname:bKL9oUgYSpjOQXne
-a=ssrc:1505764096 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 mslabel:-
-a=ssrc:1505764096 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-
-voximplant.min.js:1 VIWSLR 202 86 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: No sdp codecs transformer registered
-voximplant.min.js:1 VIWSLR 203 86 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _handleReinvite(), set local SDP: 
-v=0
-o=- 3597308766549298171 10 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0 1
-a=extmap-allow-mixed
-a=msid-semantic: WMS 4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-m=audio 52462 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
-c=IN IP4 95.213.228.4
-a=sendrecv
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 48250 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 52462 typ relay raddr 212.109.30.88 rport 1981 generation 1 network-id 1 network-cost 10
-a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4628 typ srflx raddr 192.168.1.85 rport 48250 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 51846 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 57599 typ relay raddr 212.109.30.88 rport 1979 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 50234 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=mid:0
-a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=rtcp-mux
-a=rtpmap:111 opus/48000/2
-a=rtcp-fb:111 transport-cc
-a=fmtp:111 minptime=10;useinbandfec=1
-a=rtpmap:103 ISAC/16000
-a=rtpmap:104 ISAC/32000
-a=rtpmap:9 G722/8000
-a=rtpmap:0 PCMU/8000
-a=rtpmap:8 PCMA/8000
-a=rtpmap:106 CN/32000
-a=rtpmap:105 CN/16000
-a=rtpmap:13 CN/8000
-a=rtpmap:110 telephone-event/48000
-a=rtpmap:112 telephone-event/32000
-a=rtpmap:113 telephone-event/16000
-a=rtpmap:126 telephone-event/8000
-a=ssrc:2942899406 cname:bKL9oUgYSpjOQXne
-a=ssrc:2942899406 msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=ssrc:2942899406 mslabel:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-a=ssrc:2942899406 label:0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
-c=IN IP4 0.0.0.0
-a=sendrecv
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=mid:1
-a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:13 urn:3gpp:video-orientation
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
-a=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
-a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
-a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=rtcp-mux
-a=rtcp-rsize
-a=ssrc-group:FID 3333787332 1505764096
-a=rtpmap:96 VP8/90000
-a=rtcp-fb:96 goog-remb
-a=rtcp-fb:96 transport-cc
-a=rtcp-fb:96 ccm fir
-a=rtcp-fb:96 nack
-a=rtcp-fb:96 nack pli
-a=rtpmap:97 rtx/90000
-a=fmtp:97 apt=96
-a=rtpmap:98 VP9/90000
-a=rtcp-fb:98 goog-remb
-a=rtcp-fb:98 transport-cc
-a=rtcp-fb:98 ccm fir
-a=rtcp-fb:98 nack
-a=rtcp-fb:98 nack pli
-a=fmtp:98 profile-id=0
-a=rtpmap:99 rtx/90000
-a=fmtp:99 apt=98
-a=rtpmap:100 VP9/90000
-a=rtcp-fb:100 goog-remb
-a=rtcp-fb:100 transport-cc
-a=rtcp-fb:100 ccm fir
-a=rtcp-fb:100 nack
-a=rtcp-fb:100 nack pli
-a=fmtp:100 profile-id=2
-a=rtpmap:101 rtx/90000
-a=fmtp:101 apt=100
-a=rtpmap:123 VP9/90000
-a=rtcp-fb:123 goog-remb
-a=rtcp-fb:123 transport-cc
-a=rtcp-fb:123 ccm fir
-a=rtcp-fb:123 nack
-a=rtcp-fb:123 nack pli
-a=fmtp:123 profile-id=1
-a=rtpmap:102 H264/90000
-a=rtcp-fb:102 goog-remb
-a=rtcp-fb:102 transport-cc
-a=rtcp-fb:102 ccm fir
-a=rtcp-fb:102 nack
-a=rtcp-fb:102 nack pli
-a=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
-a=rtpmap:122 rtx/90000
-a=fmtp:122 apt=102
-a=rtpmap:127 H264/90000
-a=rtcp-fb:127 goog-remb
-a=rtcp-fb:127 transport-cc
-a=rtcp-fb:127 ccm fir
-a=rtcp-fb:127 nack
-a=rtcp-fb:127 nack pli
-a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
-a=rtpmap:121 rtx/90000
-a=fmtp:121 apt=127
-a=rtpmap:125 H264/90000
-a=rtcp-fb:125 goog-remb
-a=rtcp-fb:125 transport-cc
-a=rtcp-fb:125 ccm fir
-a=rtcp-fb:125 nack
-a=rtcp-fb:125 nack pli
-a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
-a=rtpmap:107 rtx/90000
-a=fmtp:107 apt=125
-a=rtpmap:108 H264/90000
-a=rtcp-fb:108 goog-remb
-a=rtcp-fb:108 transport-cc
-a=rtcp-fb:108 ccm fir
-a=rtcp-fb:108 nack
-a=rtcp-fb:108 nack pli
-a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
-a=rtpmap:109 rtx/90000
-a=fmtp:109 apt=108
-a=rtpmap:35 AV1/90000
-a=rtcp-fb:35 goog-remb
-a=rtcp-fb:35 transport-cc
-a=rtcp-fb:35 ccm fir
-a=rtcp-fb:35 nack
-a=rtcp-fb:35 nack pli
-a=rtpmap:36 rtx/90000
-a=fmtp:36 apt=35
-a=rtpmap:37 flexfec-03/90000
-a=rtcp-fb:37 goog-remb
-a=rtcp-fb:37 transport-cc
-a=fmtp:37 repair-window=10000000
-a=rtpmap:120 red/90000
-a=rtpmap:119 rtx/90000
-a=fmtp:119 apt=120
-a=rtpmap:124 ulpfec/90000
-a=ssrc:3333787332 cname:bKL9oUgYSpjOQXne
-a=ssrc:3333787332 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:3333787332 mslabel:-
-a=ssrc:3333787332 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 cname:bKL9oUgYSpjOQXne
-a=ssrc:1505764096 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 mslabel:-
-a=ssrc:1505764096 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-
-voximplant.min.js:1 VIWSLR 204 86 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 205 86 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 206 86 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to have-local-offer for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 207 86 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _handleReinvite(), set remote SDP: 
-v=0
-o=- 2417758374 10 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0 1
-a=extmap-allow-mixed
-a=msid-semantic: WMS QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-m=audio 56741 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110
-c=IN IP4 95.213.228.4
-a=rtcp:9 IN IP4 0.0.0.0
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 42827 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4111 typ srflx raddr 192.168.1.85 rport 42827 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 56741 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 59456 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 58119 typ relay raddr 212.109.30.88 rport 1977 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 58346 typ relay raddr 212.109.30.88 rport 1978 generation 1 network-id 1 network-cost 10
-a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
-a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
-a=setup:passive
-a=mid:0
-a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=sendrecv
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
-a=rtcp-mux
-a=rtpmap:111 opus/48000/2
-a=rtcp-fb:111 transport-cc
-a=fmtp:111 minptime=10;useinbandfec=1
-a=rtpmap:103 ISAC/16000
-a=rtpmap:104 ISAC/32000
-a=rtpmap:9 G722/8000
-a=rtpmap:0 PCMU/8000
-a=rtpmap:8 PCMA/8000
-a=rtpmap:106 CN/32000
-a=rtpmap:105 CN/16000
-a=rtpmap:13 CN/8000
-a=rtpmap:110 telephone-event/48000
-a=ssrc:1719043808 cname:FCCMlW9BxaKC7rzk
-m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
-c=IN IP4 0.0.0.0
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
-a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
-a=setup:passive
-a=mid:1
-a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:13 urn:3gpp:video-orientation
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
-a=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
-a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
-a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=recvonly
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=rtcp-mux
-a=rtcp-rsize
-a=rtpmap:96 VP8/90000
-a=rtcp-fb:96 goog-remb
-a=rtcp-fb:96 transport-cc
-a=rtcp-fb:96 ccm fir
-a=rtcp-fb:96 nack
-a=rtcp-fb:96 nack pli
-a=rtpmap:97 rtx/90000
-a=fmtp:97 apt=96
-a=rtpmap:98 VP9/90000
-a=rtcp-fb:98 goog-remb
-a=rtcp-fb:98 transport-cc
-a=rtcp-fb:98 ccm fir
-a=rtcp-fb:98 nack
-a=rtcp-fb:98 nack pli
-a=fmtp:98 profile-id=0
-a=rtpmap:99 rtx/90000
-a=fmtp:99 apt=98
-a=rtpmap:100 VP9/90000
-a=rtcp-fb:100 goog-remb
-a=rtcp-fb:100 transport-cc
-a=rtcp-fb:100 ccm fir
-a=rtcp-fb:100 nack
-a=rtcp-fb:100 nack pli
-a=fmtp:100 profile-id=2
-a=rtpmap:101 rtx/90000
-a=fmtp:101 apt=100
-a=rtpmap:123 VP9/90000
-a=rtcp-fb:123 goog-remb
-a=rtcp-fb:123 transport-cc
-a=rtcp-fb:123 ccm fir
-a=rtcp-fb:123 nack
-a=rtcp-fb:123 nack pli
-a=fmtp:123 profile-id=1
-a=rtpmap:102 H264/90000
-a=rtcp-fb:102 goog-remb
-a=rtcp-fb:102 transport-cc
-a=rtcp-fb:102 ccm fir
-a=rtcp-fb:102 nack
-a=rtcp-fb:102 nack pli
-a=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
-a=rtpmap:122 rtx/90000
-a=fmtp:122 apt=102
-a=rtpmap:127 H264/90000
-a=rtcp-fb:127 goog-remb
-a=rtcp-fb:127 transport-cc
-a=rtcp-fb:127 ccm fir
-a=rtcp-fb:127 nack
-a=rtcp-fb:127 nack pli
-a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
-a=rtpmap:121 rtx/90000
-a=fmtp:121 apt=127
-a=rtpmap:125 H264/90000
-a=rtcp-fb:125 goog-remb
-a=rtcp-fb:125 transport-cc
-a=rtcp-fb:125 ccm fir
-a=rtcp-fb:125 nack
-a=rtcp-fb:125 nack pli
-a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
-a=rtpmap:107 rtx/90000
-a=fmtp:107 apt=125
-a=rtpmap:108 H264/90000
-a=rtcp-fb:108 goog-remb
-a=rtcp-fb:108 transport-cc
-a=rtcp-fb:108 ccm fir
-a=rtcp-fb:108 nack
-a=rtcp-fb:108 nack pli
-a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
-a=rtpmap:109 rtx/90000
-a=fmtp:109 apt=108
-a=rtpmap:35 AV1/90000
-a=rtcp-fb:35 goog-remb
-a=rtcp-fb:35 transport-cc
-a=rtcp-fb:35 ccm fir
-a=rtcp-fb:35 nack
-a=rtcp-fb:35 nack pli
-a=rtpmap:36 rtx/90000
-a=fmtp:36 apt=35
-a=rtpmap:37 flexfec-03/90000
-a=rtcp-fb:37 goog-remb
-a=rtcp-fb:37 transport-cc
-a=fmtp:37 repair-window=10000000
-a=rtpmap:120 red/90000
-a=rtpmap:119 rtx/90000
-a=fmtp:119 apt=120
-a=rtpmap:124 ulpfec/90000
-a=ssrc-group:FID 2456097457 1102092625
-a=ssrc:2456097457 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1102092625 cname:FCCMlW9BxaKC7rzk
-
-voximplant.min.js:1 VIWSLR 208 86 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 209 86 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 210 86 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to stable for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 211 86 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 212 86 INFO [event]: Updated, listeners: 2
-voximplant.min.js:1 VIWSLR 213 89 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 214 89 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 215 100 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 216 100 INFO [event]: CallStatsReceived, listeners: 0
-manage-mediastreams.js:17 sendVideo is called
-voximplant.min.js:1 VIWSLR 217 107 INFO Call 15FF10E97E0CB407.1640592780.9246464: sendVideo(false)
-manage-mediastreams.js:21 Resolved sendVideo(true)
-voximplant.min.js:1 VIWSLR 218 107 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 219 107 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Renegotiation started
-voximplant.min.js:1 VIWSLR 220 107 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 221 107 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Renegotiation in progress. Queueing
-voximplant.min.js:1 VIWSLR 222 107 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _runReinvite(), created local SDP: 
-v=0
-o=- 3597308766549298171 11 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0 1
-a=extmap-allow-mixed
-a=msid-semantic: WMS 4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-m=audio 52462 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126 63
-c=IN IP4 95.213.228.4
-a=rtcp:9 IN IP4 0.0.0.0
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 48250 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 52462 typ relay raddr 212.109.30.88 rport 1981 generation 1 network-id 1 network-cost 10
-a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4628 typ srflx raddr 192.168.1.85 rport 48250 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 51846 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 57599 typ relay raddr 212.109.30.88 rport 1979 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 50234 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=mid:0
-a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=sendrecv
-a=msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=rtcp-mux
-a=rtpmap:111 opus/48000/2
-a=rtcp-fb:111 transport-cc
-a=fmtp:111 minptime=10;useinbandfec=1
-a=rtpmap:103 ISAC/16000
-a=rtpmap:104 ISAC/32000
-a=rtpmap:9 G722/8000
-a=rtpmap:0 PCMU/8000
-a=rtpmap:8 PCMA/8000
-a=rtpmap:106 CN/32000
-a=rtpmap:105 CN/16000
-a=rtpmap:13 CN/8000
-a=rtpmap:110 telephone-event/48000
-a=rtpmap:112 telephone-event/32000
-a=rtpmap:113 telephone-event/16000
-a=rtpmap:126 telephone-event/8000
-a=rtpmap:63 red/48000/2
-a=fmtp:63 111/111
-a=ssrc:2942899406 cname:bKL9oUgYSpjOQXne
-a=ssrc:2942899406 msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=ssrc:2942899406 mslabel:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-a=ssrc:2942899406 label:0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
-c=IN IP4 0.0.0.0
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=mid:1
-a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:13 urn:3gpp:video-orientation
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
-a=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
-a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
-a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=recvonly
-a=msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=rtcp-mux
-a=rtcp-rsize
-a=rtpmap:96 VP8/90000
-a=rtcp-fb:96 goog-remb
-a=rtcp-fb:96 transport-cc
-a=rtcp-fb:96 ccm fir
-a=rtcp-fb:96 nack
-a=rtcp-fb:96 nack pli
-a=rtpmap:97 rtx/90000
-a=fmtp:97 apt=96
-a=rtpmap:98 VP9/90000
-a=rtcp-fb:98 goog-remb
-a=rtcp-fb:98 transport-cc
-a=rtcp-fb:98 ccm fir
-a=rtcp-fb:98 nack
-a=rtcp-fb:98 nack pli
-a=fmtp:98 profile-id=0
-a=rtpmap:99 rtx/90000
-a=fmtp:99 apt=98
-a=rtpmap:100 VP9/90000
-a=rtcp-fb:100 goog-remb
-a=rtcp-fb:100 transport-cc
-a=rtcp-fb:100 ccm fir
-a=rtcp-fb:100 nack
-a=rtcp-fb:100 nack pli
-a=fmtp:100 profile-id=2
-a=rtpmap:101 rtx/90000
-a=fmtp:101 apt=100
-a=rtpmap:123 VP9/90000
-a=rtcp-fb:123 goog-remb
-a=rtcp-fb:123 transport-cc
-a=rtcp-fb:123 ccm fir
-a=rtcp-fb:123 nack
-a=rtcp-fb:123 nack pli
-a=fmtp:123 profile-id=1
-a=rtpmap:102 H264/90000
-a=rtcp-fb:102 goog-remb
-a=rtcp-fb:102 transport-cc
-a=rtcp-fb:102 ccm fir
-a=rtcp-fb:102 nack
-a=rtcp-fb:102 nack pli
-a=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
-a=rtpmap:122 rtx/90000
-a=fmtp:122 apt=102
-a=rtpmap:127 H264/90000
-a=rtcp-fb:127 goog-remb
-a=rtcp-fb:127 transport-cc
-a=rtcp-fb:127 ccm fir
-a=rtcp-fb:127 nack
-a=rtcp-fb:127 nack pli
-a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
-a=rtpmap:121 rtx/90000
-a=fmtp:121 apt=127
-a=rtpmap:125 H264/90000
-a=rtcp-fb:125 goog-remb
-a=rtcp-fb:125 transport-cc
-a=rtcp-fb:125 ccm fir
-a=rtcp-fb:125 nack
-a=rtcp-fb:125 nack pli
-a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
-a=rtpmap:107 rtx/90000
-a=fmtp:107 apt=125
-a=rtpmap:108 H264/90000
-a=rtcp-fb:108 goog-remb
-a=rtcp-fb:108 transport-cc
-a=rtcp-fb:108 ccm fir
-a=rtcp-fb:108 nack
-a=rtcp-fb:108 nack pli
-a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
-a=rtpmap:109 rtx/90000
-a=fmtp:109 apt=108
-a=rtpmap:35 AV1/90000
-a=rtcp-fb:35 goog-remb
-a=rtcp-fb:35 transport-cc
-a=rtcp-fb:35 ccm fir
-a=rtcp-fb:35 nack
-a=rtcp-fb:35 nack pli
-a=rtpmap:36 rtx/90000
-a=fmtp:36 apt=35
-a=rtpmap:37 flexfec-03/90000
-a=rtcp-fb:37 goog-remb
-a=rtcp-fb:37 transport-cc
-a=fmtp:37 repair-window=10000000
-a=rtpmap:120 red/90000
-a=rtpmap:119 rtx/90000
-a=fmtp:119 apt=120
-a=rtpmap:124 ulpfec/90000
-a=ssrc-group:FID 3333787332 1505764096
-a=ssrc:3333787332 cname:bKL9oUgYSpjOQXne
-a=ssrc:3333787332 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:3333787332 mslabel:-
-a=ssrc:3333787332 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 cname:bKL9oUgYSpjOQXne
-a=ssrc:1505764096 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 mslabel:-
-a=ssrc:1505764096 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-
-voximplant.min.js:1 VIWSLR 223 107 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: No sdp codecs transformer registered
-voximplant.min.js:1 VIWSLR 224 107 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _handleReinvite(), set local SDP: 
-v=0
-o=- 3597308766549298171 11 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0 1
-a=extmap-allow-mixed
-a=msid-semantic: WMS 4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-m=audio 52462 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110 112 113 126
-c=IN IP4 95.213.228.4
-a=sendrecv
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 48250 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 52462 typ relay raddr 212.109.30.88 rport 1981 generation 1 network-id 1 network-cost 10
-a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4628 typ srflx raddr 192.168.1.85 rport 48250 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 51846 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 57599 typ relay raddr 212.109.30.88 rport 1979 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 50234 typ relay raddr 212.109.30.88 rport 4628 generation 1 network-id 1 network-cost 10
-a=mid:0
-a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=rtcp-mux
-a=rtpmap:111 opus/48000/2
-a=rtcp-fb:111 transport-cc
-a=fmtp:111 minptime=10;useinbandfec=1
-a=rtpmap:103 ISAC/16000
-a=rtpmap:104 ISAC/32000
-a=rtpmap:9 G722/8000
-a=rtpmap:0 PCMU/8000
-a=rtpmap:8 PCMA/8000
-a=rtpmap:106 CN/32000
-a=rtpmap:105 CN/16000
-a=rtpmap:13 CN/8000
-a=rtpmap:110 telephone-event/48000
-a=rtpmap:112 telephone-event/32000
-a=rtpmap:113 telephone-event/16000
-a=rtpmap:126 telephone-event/8000
-a=ssrc:2942899406 cname:bKL9oUgYSpjOQXne
-a=ssrc:2942899406 msid:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO 0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-a=ssrc:2942899406 mslabel:4rWvoZBNOmSYUoxoqzDiL2iuFkMN0bTwsoVO
-a=ssrc:2942899406 label:0ff1b8c2-2f2c-4642-b920-8f13a3c4a364
-m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
-c=IN IP4 0.0.0.0
-a=recvonly
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:hWcZ
-a=ice-pwd:cMGxGILXHFamIPxS6oMR6wIs
-a=ice-options:trickle
-a=fingerprint:sha-256 28:D2:83:5B:A4:DC:3F:25:79:02:CC:54:32:64:E8:99:D3:69:01:74:20:48:9B:6C:B3:76:78:77:29:0C:C0:17
-a=setup:actpass
-a=mid:1
-a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:13 urn:3gpp:video-orientation
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
-a=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
-a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
-a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=rtcp-mux
-a=rtcp-rsize
-a=ssrc-group:FID 3333787332 1505764096
-a=rtpmap:96 VP8/90000
-a=rtcp-fb:96 goog-remb
-a=rtcp-fb:96 transport-cc
-a=rtcp-fb:96 ccm fir
-a=rtcp-fb:96 nack
-a=rtcp-fb:96 nack pli
-a=rtpmap:97 rtx/90000
-a=fmtp:97 apt=96
-a=rtpmap:98 VP9/90000
-a=rtcp-fb:98 goog-remb
-a=rtcp-fb:98 transport-cc
-a=rtcp-fb:98 ccm fir
-a=rtcp-fb:98 nack
-a=rtcp-fb:98 nack pli
-a=fmtp:98 profile-id=0
-a=rtpmap:99 rtx/90000
-a=fmtp:99 apt=98
-a=rtpmap:100 VP9/90000
-a=rtcp-fb:100 goog-remb
-a=rtcp-fb:100 transport-cc
-a=rtcp-fb:100 ccm fir
-a=rtcp-fb:100 nack
-a=rtcp-fb:100 nack pli
-a=fmtp:100 profile-id=2
-a=rtpmap:101 rtx/90000
-a=fmtp:101 apt=100
-a=rtpmap:123 VP9/90000
-a=rtcp-fb:123 goog-remb
-a=rtcp-fb:123 transport-cc
-a=rtcp-fb:123 ccm fir
-a=rtcp-fb:123 nack
-a=rtcp-fb:123 nack pli
-a=fmtp:123 profile-id=1
-a=rtpmap:102 H264/90000
-a=rtcp-fb:102 goog-remb
-a=rtcp-fb:102 transport-cc
-a=rtcp-fb:102 ccm fir
-a=rtcp-fb:102 nack
-a=rtcp-fb:102 nack pli
-a=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
-a=rtpmap:122 rtx/90000
-a=fmtp:122 apt=102
-a=rtpmap:127 H264/90000
-a=rtcp-fb:127 goog-remb
-a=rtcp-fb:127 transport-cc
-a=rtcp-fb:127 ccm fir
-a=rtcp-fb:127 nack
-a=rtcp-fb:127 nack pli
-a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
-a=rtpmap:121 rtx/90000
-a=fmtp:121 apt=127
-a=rtpmap:125 H264/90000
-a=rtcp-fb:125 goog-remb
-a=rtcp-fb:125 transport-cc
-a=rtcp-fb:125 ccm fir
-a=rtcp-fb:125 nack
-a=rtcp-fb:125 nack pli
-a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
-a=rtpmap:107 rtx/90000
-a=fmtp:107 apt=125
-a=rtpmap:108 H264/90000
-a=rtcp-fb:108 goog-remb
-a=rtcp-fb:108 transport-cc
-a=rtcp-fb:108 ccm fir
-a=rtcp-fb:108 nack
-a=rtcp-fb:108 nack pli
-a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
-a=rtpmap:109 rtx/90000
-a=fmtp:109 apt=108
-a=rtpmap:35 AV1/90000
-a=rtcp-fb:35 goog-remb
-a=rtcp-fb:35 transport-cc
-a=rtcp-fb:35 ccm fir
-a=rtcp-fb:35 nack
-a=rtcp-fb:35 nack pli
-a=rtpmap:36 rtx/90000
-a=fmtp:36 apt=35
-a=rtpmap:37 flexfec-03/90000
-a=rtcp-fb:37 goog-remb
-a=rtcp-fb:37 transport-cc
-a=fmtp:37 repair-window=10000000
-a=rtpmap:120 red/90000
-a=rtpmap:119 rtx/90000
-a=fmtp:119 apt=120
-a=rtpmap:124 ulpfec/90000
-a=ssrc:3333787332 cname:bKL9oUgYSpjOQXne
-a=ssrc:3333787332 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:3333787332 mslabel:-
-a=ssrc:3333787332 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 cname:bKL9oUgYSpjOQXne
-a=ssrc:1505764096 msid:- b1c60ee3-3904-4866-b98a-f93f38abf7e8
-a=ssrc:1505764096 mslabel:-
-a=ssrc:1505764096 label:b1c60ee3-3904-4866-b98a-f93f38abf7e8
-
-voximplant.min.js:1 VIWSLR 225 107 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 226 107 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 227 107 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to have-local-offer for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 228 107 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: _handleReinvite(), set remote SDP: 
-v=0
-o=- 2417758374 11 IN IP4 127.0.0.1
-s=-
-t=0 0
-a=group:BUNDLE 0 1
-a=extmap-allow-mixed
-a=msid-semantic: WMS QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8
-m=audio 56741 UDP/TLS/RTP/SAVPF 111 103 104 9 0 8 106 105 13 110
-c=IN IP4 95.213.228.4
-a=rtcp:9 IN IP4 0.0.0.0
-a=candidate:3385076907 1 udp 2122260223 192.168.1.85 42827 typ host generation 1 network-id 1 network-cost 10
-a=candidate:1070880127 1 udp 1686052607 212.109.30.88 4111 typ srflx raddr 192.168.1.85 rport 42827 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41885695 95.213.228.4 56741 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:642126132 1 udp 41886207 95.213.228.4 59456 typ relay raddr 212.109.30.88 rport 4111 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108735 95.213.228.4 58119 typ relay raddr 212.109.30.88 rport 1977 generation 1 network-id 1 network-cost 10
-a=candidate:1757801924 1 udp 25108223 95.213.228.4 58346 typ relay raddr 212.109.30.88 rport 1978 generation 1 network-id 1 network-cost 10
-a=candidate:2269630555 1 tcp 1518280447 192.168.1.85 9 typ host tcptype active generation 1 network-id 1 network-cost 10
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
-a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
-a=setup:passive
-a=mid:0
-a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=sendrecv
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 93a6819c-43e9-434f-9920-dd2c98e9bed0
-a=rtcp-mux
-a=rtpmap:111 opus/48000/2
-a=rtcp-fb:111 transport-cc
-a=fmtp:111 minptime=10;useinbandfec=1
-a=rtpmap:103 ISAC/16000
-a=rtpmap:104 ISAC/32000
-a=rtpmap:9 G722/8000
-a=rtpmap:0 PCMU/8000
-a=rtpmap:8 PCMA/8000
-a=rtpmap:106 CN/32000
-a=rtpmap:105 CN/16000
-a=rtpmap:13 CN/8000
-a=rtpmap:110 telephone-event/48000
-a=ssrc:1719043808 cname:FCCMlW9BxaKC7rzk
-m=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 123 102 122 127 121 125 107 108 109 35 36 37 120 119 124
-c=IN IP4 0.0.0.0
-a=rtcp:9 IN IP4 0.0.0.0
-a=ice-ufrag:kMxd
-a=ice-pwd:29ZYNOnYl6atnCGCdZO0HqkQ
-a=ice-options:trickle
-a=fingerprint:sha-256 ED:1F:8F:D8:B2:DD:7F:9A:9D:68:21:C3:E9:BB:CB:0E:D4:93:39:E4:0D:B9:E2:3B:55:6D:7D:70:E6:54:28:A9
-a=setup:passive
-a=mid:1
-a=extmap:14 urn:ietf:params:rtp-hdrext:toffset
-a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time
-a=extmap:13 urn:3gpp:video-orientation
-a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01
-a=extmap:12 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay
-a=extmap:11 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type
-a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing
-a=extmap:8 http://www.webrtc.org/experiments/rtp-hdrext/color-space
-a=extmap:4 urn:ietf:params:rtp-hdrext:sdes:mid
-a=extmap:5 urn:ietf:params:rtp-hdrext:sdes:rtp-stream-id
-a=extmap:6 urn:ietf:params:rtp-hdrext:sdes:repaired-rtp-stream-id
-a=inactive
-a=msid:QxhI9MQV2dHcSRfZWxCa7spH71eF1VteP6Q8 d93d0b74-db48-421f-9b7d-f7fd4db79b79
-a=rtcp-mux
-a=rtcp-rsize
-a=rtpmap:96 VP8/90000
-a=rtcp-fb:96 goog-remb
-a=rtcp-fb:96 transport-cc
-a=rtcp-fb:96 ccm fir
-a=rtcp-fb:96 nack
-a=rtcp-fb:96 nack pli
-a=rtpmap:97 rtx/90000
-a=fmtp:97 apt=96
-a=rtpmap:98 VP9/90000
-a=rtcp-fb:98 goog-remb
-a=rtcp-fb:98 transport-cc
-a=rtcp-fb:98 ccm fir
-a=rtcp-fb:98 nack
-a=rtcp-fb:98 nack pli
-a=fmtp:98 profile-id=0
-a=rtpmap:99 rtx/90000
-a=fmtp:99 apt=98
-a=rtpmap:100 VP9/90000
-a=rtcp-fb:100 goog-remb
-a=rtcp-fb:100 transport-cc
-a=rtcp-fb:100 ccm fir
-a=rtcp-fb:100 nack
-a=rtcp-fb:100 nack pli
-a=fmtp:100 profile-id=2
-a=rtpmap:101 rtx/90000
-a=fmtp:101 apt=100
-a=rtpmap:123 VP9/90000
-a=rtcp-fb:123 goog-remb
-a=rtcp-fb:123 transport-cc
-a=rtcp-fb:123 ccm fir
-a=rtcp-fb:123 nack
-a=rtcp-fb:123 nack pli
-a=fmtp:123 profile-id=1
-a=rtpmap:102 H264/90000
-a=rtcp-fb:102 goog-remb
-a=rtcp-fb:102 transport-cc
-a=rtcp-fb:102 ccm fir
-a=rtcp-fb:102 nack
-a=rtcp-fb:102 nack pli
-a=fmtp:102 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42001f
-a=rtpmap:122 rtx/90000
-a=fmtp:122 apt=102
-a=rtpmap:127 H264/90000
-a=rtcp-fb:127 goog-remb
-a=rtcp-fb:127 transport-cc
-a=rtcp-fb:127 ccm fir
-a=rtcp-fb:127 nack
-a=rtcp-fb:127 nack pli
-a=fmtp:127 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42001f
-a=rtpmap:121 rtx/90000
-a=fmtp:121 apt=127
-a=rtpmap:125 H264/90000
-a=rtcp-fb:125 goog-remb
-a=rtcp-fb:125 transport-cc
-a=rtcp-fb:125 ccm fir
-a=rtcp-fb:125 nack
-a=rtcp-fb:125 nack pli
-a=fmtp:125 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
-a=rtpmap:107 rtx/90000
-a=fmtp:107 apt=125
-a=rtpmap:108 H264/90000
-a=rtcp-fb:108 goog-remb
-a=rtcp-fb:108 transport-cc
-a=rtcp-fb:108 ccm fir
-a=rtcp-fb:108 nack
-a=rtcp-fb:108 nack pli
-a=fmtp:108 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
-a=rtpmap:109 rtx/90000
-a=fmtp:109 apt=108
-a=rtpmap:35 AV1/90000
-a=rtcp-fb:35 goog-remb
-a=rtcp-fb:35 transport-cc
-a=rtcp-fb:35 ccm fir
-a=rtcp-fb:35 nack
-a=rtcp-fb:35 nack pli
-a=rtpmap:36 rtx/90000
-a=fmtp:36 apt=35
-a=rtpmap:37 flexfec-03/90000
-a=rtcp-fb:37 goog-remb
-a=rtcp-fb:37 transport-cc
-a=fmtp:37 repair-window=10000000
-a=rtpmap:120 red/90000
-a=rtpmap:119 rtx/90000
-a=fmtp:119 apt=120
-a=rtpmap:124 ulpfec/90000
-a=ssrc-group:FID 2456097457 1102092625
-a=ssrc:2456097457 cname:FCCMlW9BxaKC7rzk
-a=ssrc:1102092625 cname:FCCMlW9BxaKC7rzk
-
-voximplant.min.js:1 VIWSLR 229 107 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 230 107 INFO [event]: SDP, listeners: 0
-voximplant.min.js:1 VIWSLR 231 107 INFO TransreceiverPC 15FF10E97E0CB407.1640592780.9246464: Signal state changed to stable for PC: 15FF10E97E0CB407.1640592780.9246464
-voximplant.min.js:1 VIWSLR 232 107 INFO [event]: StateUpdated, listeners: 0
-voximplant.min.js:1 VIWSLR 233 107 INFO [event]: Updated, listeners: 2
-voximplant.min.js:1 VIWSLR 234 107 INFO MediaRenderer: MediaRendered ID: already removing 47424ab8-006d-45fc-aef2-c334210d6a30. Ignored.
-voximplant.min.js:1 VIWSLR 235 110 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 236 110 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 237 121 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 238 121 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 239 132 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 240 132 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 241 143 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 242 143 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 243 154 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 244 154 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 245 165 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 246 165 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 247 176 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 248 176 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 249 187 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 250 187 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 251 198 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 252 198 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 253 209 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 254 209 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 255 220 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 256 220 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 257 231 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 258 231 INFO [event]: CallStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 259 241 INFO [event]: RTCStatsReceived, listeners: 0
-voximplant.min.js:1 VIWSLR 260 241 INFO [event]: CallStatsReceived, listeners: 0
+voximplant.min.js:1 VIWSLR 133 31 INFO [event]: StateUpdated, listeners: 0
+voximplant.min.js:1 VIWSLR 134 31 INFO [event]: PendingUpdate, listeners: 2
+voximplant.min.js:1 VIWSLR 135 31 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 136 31 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: Signal state changed to have-remote-offer for PC: 7C73F1FA5DFF63C8.1640594353.10511813
+voximplant.min.js:1 VIWSLR 137 31 INFO [event]: StateUpdated, listeners: 0
+voximplant.min.js:1 VIWSLR 138 31 INFO [event]: Updated, listeners: 2
+voximplant.min.js:1 VIWSLR 139 31 INFO [event]: SDP, listeners: 0
+voximplant.min.js:1 VIWSLR 140 31 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: Signal state changed to stable for PC: 7C73F1FA5DFF63C8.1640594353.10511813
+voximplant.min.js:1 VIWSLR 141 31 INFO [event]: RemoteMediaRemoved, listeners: 0
+voximplant.min.js:1 VIWSLR 142 31 INFO [event]: MediaElementRemoved, listeners: 0
+voximplant.min.js:1 VIWSLR 143 32 INFO MediaRenderer: setVolume(1)
+voximplant.min.js:1 VIWSLR 144 33 INFO [event]: QualityIssueHighMediaLatency MINOR, listeners: 0
+voximplant.min.js:1 VIWSLR 145 35 INFO Call 7C73F1FA5DFF63C8.1640594353.10511813: hangup()
+voximplant.min.js:1 VIWSLR 146 35 INFO [event]: StateUpdated, listeners: 0
+voximplant.min.js:1 VIWSLR 147 35 INFO [event]: RemoteMediaRemoved, listeners: 0
+voximplant.min.js:1 VIWSLR 148 35 INFO [event]: MediaElementRemoved, listeners: 0
+voximplant.min.js:1 VIWSLR 149 35 INFO [event]: Removed, listeners: 0
+voximplant.min.js:1 VIWSLR 150 35 INFO [event]: Disconnected, listeners: 2
+manage-call.js:13 The created call was finished by interlocutor
+manage-call.js:67 The incoming call was finished by interlocutor
+voximplant.min.js:1 VIWSLR 151 35 INFO TransreceiverPC 7C73F1FA5DFF63C8.1640594353.10511813: close()
+voximplant.min.js:1 VIWSLR 152 35 INFO MediaRenderer: MediaRendered ID: already removing 9db17bb2-4286-4625-bfcc-da39c9c029dd. Ignored.
+voximplant.min.js:1 VIWSLR 153 45 INFO MediaRenderer: MediaRendered ID: already removing 9db17bb2-4286-4625-bfcc-da39c9c029dd. Ignored.

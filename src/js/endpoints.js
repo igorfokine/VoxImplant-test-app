@@ -11,7 +11,7 @@ const onRemoteMediaAdded = ({ endpoint, mediaRenderer }) => {
 
   // render a video stream in the remote video holder
   const renderedVideo = document.createElement('div');
-  videoContainer.appendChild(renderedVideo);
+  document.getElementById('local-video-container').appendChild(renderedVideo);
   mediaRenderer.render(renderedVideo);
 };
 

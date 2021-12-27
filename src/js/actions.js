@@ -18,7 +18,8 @@ const callCloseButton = document.getElementById('call-close-btn');
 
 const videoSwitchButton = document.getElementById('video-switch-btn');
 let videoTurnedOn = false;
-const videoContainer = document.getElementById('video-container');
+const localVideoContainer = document.getElementById('local-video-container');
+const remoteVideoContainer = document.getElementById('remote-video-container');
 
 
 // add listeners to access functionality
